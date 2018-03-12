@@ -1,0 +1,1644 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: SpeedyCoding
+  name: SpeedyCoding
+  href: api/SpeedyCoding.html
+  commentId: N:SpeedyCoding
+  fullName: SpeedyCoding
+  nameWithType: SpeedyCoding
+- uid: SpeedyCoding.CollectionAndData
+  name: CollectionAndData
+  href: api/SpeedyCoding.CollectionAndData.html
+  commentId: T:SpeedyCoding.CollectionAndData
+  fullName: SpeedyCoding.CollectionAndData
+  nameWithType: CollectionAndData
+- uid: SpeedyCoding.CollectionAndData.Append*
+  name: Append
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Append_
+  commentId: Overload:SpeedyCoding.CollectionAndData.Append
+  fullName: SpeedyCoding.CollectionAndData.Append
+  nameWithType: CollectionAndData.Append
+- uid: SpeedyCoding.CollectionAndData.Append``1(System.Collections.Generic.List{``0},``0)
+  name: Append<Tv>(List<Tv>, Tv)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Append__1_System_Collections_Generic_List___0____0_
+  commentId: M:SpeedyCoding.CollectionAndData.Append``1(System.Collections.Generic.List{``0},``0)
+  name.vb: Append(Of Tv)(List(Of Tv), Tv)
+  fullName: SpeedyCoding.CollectionAndData.Append<Tv>(System.Collections.Generic.List<Tv>, Tv)
+  fullName.vb: SpeedyCoding.CollectionAndData.Append(Of Tv)(System.Collections.Generic.List(Of Tv), Tv)
+  nameWithType: CollectionAndData.Append<Tv>(List<Tv>, Tv)
+  nameWithType.vb: CollectionAndData.Append(Of Tv)(List(Of Tv), Tv)
+- uid: SpeedyCoding.CollectionAndData.Append``2(System.Collections.Generic.Dictionary{``0,``1},``0,``1)
+  name: Append<Tk, Tv>(Dictionary<Tk, Tv>, Tk, Tv)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Append__2_System_Collections_Generic_Dictionary___0___1____0___1_
+  commentId: M:SpeedyCoding.CollectionAndData.Append``2(System.Collections.Generic.Dictionary{``0,``1},``0,``1)
+  name.vb: Append(Of Tk, Tv)(Dictionary(Of Tk, Tv), Tk, Tv)
+  fullName: SpeedyCoding.CollectionAndData.Append<Tk, Tv>(System.Collections.Generic.Dictionary<Tk, Tv>, Tk, Tv)
+  fullName.vb: SpeedyCoding.CollectionAndData.Append(Of Tk, Tv)(System.Collections.Generic.Dictionary(Of Tk, Tv), Tk, Tv)
+  nameWithType: CollectionAndData.Append<Tk, Tv>(Dictionary<Tk, Tv>, Tk, Tv)
+  nameWithType.vb: CollectionAndData.Append(Of Tk, Tv)(Dictionary(Of Tk, Tv), Tk, Tv)
+- uid: SpeedyCoding.CollectionAndData.Append``2(System.Collections.Generic.Dictionary{``0,``1},System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``1})
+  name: Append<Tk, Tv>(Dictionary<Tk, Tv>, IEnumerable<Tk>, IEnumerable<Tv>)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Append__2_System_Collections_Generic_Dictionary___0___1__System_Collections_Generic_IEnumerable___0__System_Collections_Generic_IEnumerable___1__
+  commentId: M:SpeedyCoding.CollectionAndData.Append``2(System.Collections.Generic.Dictionary{``0,``1},System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``1})
+  name.vb: Append(Of Tk, Tv)(Dictionary(Of Tk, Tv), IEnumerable(Of Tk), IEnumerable(Of Tv))
+  fullName: SpeedyCoding.CollectionAndData.Append<Tk, Tv>(System.Collections.Generic.Dictionary<Tk, Tv>, System.Collections.Generic.IEnumerable<Tk>, System.Collections.Generic.IEnumerable<Tv>)
+  fullName.vb: SpeedyCoding.CollectionAndData.Append(Of Tk, Tv)(System.Collections.Generic.Dictionary(Of Tk, Tv), System.Collections.Generic.IEnumerable(Of Tk), System.Collections.Generic.IEnumerable(Of Tv))
+  nameWithType: CollectionAndData.Append<Tk, Tv>(Dictionary<Tk, Tv>, IEnumerable<Tk>, IEnumerable<Tv>)
+  nameWithType.vb: CollectionAndData.Append(Of Tk, Tv)(Dictionary(Of Tk, Tv), IEnumerable(Of Tk), IEnumerable(Of Tv))
+- uid: SpeedyCoding.CollectionAndData.FromLast*
+  name: FromLast
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_FromLast_
+  commentId: Overload:SpeedyCoding.CollectionAndData.FromLast
+  fullName: SpeedyCoding.CollectionAndData.FromLast
+  nameWithType: CollectionAndData.FromLast
+- uid: SpeedyCoding.CollectionAndData.FromLast``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name: FromLast<T>(IEnumerable<T>, Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_FromLast__1_System_Collections_Generic_IEnumerable___0__System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.FromLast``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name.vb: FromLast(Of T)(IEnumerable(Of T), Int32)
+  fullName: SpeedyCoding.CollectionAndData.FromLast<T>(System.Collections.Generic.IEnumerable<T>, System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.FromLast(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Int32)
+  nameWithType: CollectionAndData.FromLast<T>(IEnumerable<T>, Int32)
+  nameWithType.vb: CollectionAndData.FromLast(Of T)(IEnumerable(Of T), Int32)
+- uid: SpeedyCoding.CollectionAndData.IndicesOf*
+  name: IndicesOf
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_IndicesOf_
+  commentId: Overload:SpeedyCoding.CollectionAndData.IndicesOf
+  fullName: SpeedyCoding.CollectionAndData.IndicesOf
+  nameWithType: CollectionAndData.IndicesOf
+- uid: SpeedyCoding.CollectionAndData.IndicesOf``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: IndicesOf<T>(IEnumerable<T>, Func<T, Boolean>)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_IndicesOf__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:SpeedyCoding.CollectionAndData.IndicesOf``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: IndicesOf(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+  fullName: SpeedyCoding.CollectionAndData.IndicesOf<T>(System.Collections.Generic.IEnumerable<T>, System.Func<T, System.Boolean>)
+  fullName.vb: SpeedyCoding.CollectionAndData.IndicesOf(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Func(Of T, System.Boolean))
+  nameWithType: CollectionAndData.IndicesOf<T>(IEnumerable<T>, Func<T, Boolean>)
+  nameWithType.vb: CollectionAndData.IndicesOf(Of T)(IEnumerable(Of T), Func(Of T, Boolean))
+- uid: SpeedyCoding.CollectionAndData.Len*
+  name: Len
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len_
+  commentId: Overload:SpeedyCoding.CollectionAndData.Len
+  fullName: SpeedyCoding.CollectionAndData.Len
+  nameWithType: CollectionAndData.Len
+- uid: SpeedyCoding.CollectionAndData.Len``1(``0[],System.Int32)
+  name: Len<A>(A[], Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1___0___System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(``0[],System.Int32)
+  name.vb: Len(Of A)(A(), Int32)
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(A[], System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(A(), System.Int32)
+  nameWithType: CollectionAndData.Len<A>(A[], Int32)
+  nameWithType.vb: CollectionAndData.Len(Of A)(A(), Int32)
+- uid: SpeedyCoding.CollectionAndData.Len``1(``0[][],System.Int32)
+  name: Len<A>(A[][], Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1___0_____System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(``0[][],System.Int32)
+  name.vb: Len(Of A)(A()(), Int32)
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(A[][], System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(A()(), System.Int32)
+  nameWithType: CollectionAndData.Len<A>(A[][], Int32)
+  nameWithType.vb: CollectionAndData.Len(Of A)(A()(), Int32)
+- uid: SpeedyCoding.CollectionAndData.Len``1(``0[][][],System.Int32)
+  name: Len<A>(A[][][], Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1___0_______System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(``0[][][],System.Int32)
+  name.vb: Len(Of A)(A()()(), Int32)
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(A[][][], System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(A()()(), System.Int32)
+  nameWithType: CollectionAndData.Len<A>(A[][][], Int32)
+  nameWithType.vb: CollectionAndData.Len(Of A)(A()()(), Int32)
+- uid: SpeedyCoding.CollectionAndData.Len``1(``0[0:,0:,0:],System.Int32)
+  name: Len<A>(A[,,], Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1___0_0__0__0___System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(``0[0:,0:,0:],System.Int32)
+  name.vb: Len(Of A)(A(,,), Int32)
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(A[,,], System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(A(,,), System.Int32)
+  nameWithType: CollectionAndData.Len<A>(A[,,], Int32)
+  nameWithType.vb: CollectionAndData.Len(Of A)(A(,,), Int32)
+- uid: SpeedyCoding.CollectionAndData.Len``1(``0[0:,0:],System.Int32)
+  name: Len<A>(A[,], Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1___0_0__0___System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(``0[0:,0:],System.Int32)
+  name.vb: Len(Of A)(A(,), Int32)
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(A[,], System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(A(,), System.Int32)
+  nameWithType: CollectionAndData.Len<A>(A[,], Int32)
+  nameWithType.vb: CollectionAndData.Len(Of A)(A(,), Int32)
+- uid: SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.ICollection{``0})
+  name: Len<A>(ICollection<A>)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1_System_Collections_Generic_ICollection___0__
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.ICollection{``0})
+  name.vb: Len(Of A)(ICollection(Of A))
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(System.Collections.Generic.ICollection<A>)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(System.Collections.Generic.ICollection(Of A))
+  nameWithType: CollectionAndData.Len<A>(ICollection<A>)
+  nameWithType.vb: CollectionAndData.Len(Of A)(ICollection(Of A))
+- uid: SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.IEnumerable{``0})
+  name: Len<A>(IEnumerable<A>)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: Len(Of A)(IEnumerable(Of A))
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(System.Collections.Generic.IEnumerable<A>)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(System.Collections.Generic.IEnumerable(Of A))
+  nameWithType: CollectionAndData.Len<A>(IEnumerable<A>)
+  nameWithType.vb: CollectionAndData.Len(Of A)(IEnumerable(Of A))
+- uid: SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.IList{``0})
+  name: Len<A>(IList<A>)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Len__1_System_Collections_Generic_IList___0__
+  commentId: M:SpeedyCoding.CollectionAndData.Len``1(System.Collections.Generic.IList{``0})
+  name.vb: Len(Of A)(IList(Of A))
+  fullName: SpeedyCoding.CollectionAndData.Len<A>(System.Collections.Generic.IList<A>)
+  fullName.vb: SpeedyCoding.CollectionAndData.Len(Of A)(System.Collections.Generic.IList(Of A))
+  nameWithType: CollectionAndData.Len<A>(IList<A>)
+  nameWithType.vb: CollectionAndData.Len(Of A)(IList(Of A))
+- uid: SpeedyCoding.CollectionAndData.Pick*
+  name: Pick
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Pick_
+  commentId: Overload:SpeedyCoding.CollectionAndData.Pick
+  fullName: SpeedyCoding.CollectionAndData.Pick
+  nameWithType: CollectionAndData.Pick
+- uid: SpeedyCoding.CollectionAndData.Pick``1(``0[][],System.Int32,System.Int32)
+  name: Pick<T>(T[][], Int32, Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Pick__1___0_____System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Pick``1(``0[][],System.Int32,System.Int32)
+  name.vb: Pick(Of T)(T()(), Int32, Int32)
+  fullName: SpeedyCoding.CollectionAndData.Pick<T>(T[][], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Pick(Of T)(T()(), System.Int32, System.Int32)
+  nameWithType: CollectionAndData.Pick<T>(T[][], Int32, Int32)
+  nameWithType.vb: CollectionAndData.Pick(Of T)(T()(), Int32, Int32)
+- uid: SpeedyCoding.CollectionAndData.Pick``1(``0[][],System.Int32[])
+  name: Pick<T>(T[][], Int32[])
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Pick__1___0_____System_Int32___
+  commentId: M:SpeedyCoding.CollectionAndData.Pick``1(``0[][],System.Int32[])
+  name.vb: Pick(Of T)(T()(), Int32())
+  fullName: SpeedyCoding.CollectionAndData.Pick<T>(T[][], System.Int32[])
+  fullName.vb: SpeedyCoding.CollectionAndData.Pick(Of T)(T()(), System.Int32())
+  nameWithType: CollectionAndData.Pick<T>(T[][], Int32[])
+  nameWithType.vb: CollectionAndData.Pick(Of T)(T()(), Int32())
+- uid: SpeedyCoding.CollectionAndData.Pick``1(``0[0:,0:],System.Int32,System.Int32)
+  name: Pick<T>(T[,], Int32, Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Pick__1___0_0__0___System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.Pick``1(``0[0:,0:],System.Int32,System.Int32)
+  name.vb: Pick(Of T)(T(,), Int32, Int32)
+  fullName: SpeedyCoding.CollectionAndData.Pick<T>(T[,], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.CollectionAndData.Pick(Of T)(T(,), System.Int32, System.Int32)
+  nameWithType: CollectionAndData.Pick<T>(T[,], Int32, Int32)
+  nameWithType.vb: CollectionAndData.Pick(Of T)(T(,), Int32, Int32)
+- uid: SpeedyCoding.CollectionAndData.Pick``1(``0[0:,0:],System.Int32[])
+  name: Pick<T>(T[,], Int32[])
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_Pick__1___0_0__0___System_Int32___
+  commentId: M:SpeedyCoding.CollectionAndData.Pick``1(``0[0:,0:],System.Int32[])
+  name.vb: Pick(Of T)(T(,), Int32())
+  fullName: SpeedyCoding.CollectionAndData.Pick<T>(T[,], System.Int32[])
+  fullName.vb: SpeedyCoding.CollectionAndData.Pick(Of T)(T(,), System.Int32())
+  nameWithType: CollectionAndData.Pick<T>(T[,], Int32[])
+  nameWithType.vb: CollectionAndData.Pick(Of T)(T(,), Int32())
+- uid: SpeedyCoding.CollectionAndData.ToTuple*
+  name: ToTuple
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_ToTuple_
+  commentId: Overload:SpeedyCoding.CollectionAndData.ToTuple
+  fullName: SpeedyCoding.CollectionAndData.ToTuple
+  nameWithType: CollectionAndData.ToTuple
+- uid: SpeedyCoding.CollectionAndData.ToTuple``2(``0,``1)
+  name: ToTuple<A, B>(A, B)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_ToTuple__2___0___1_
+  commentId: M:SpeedyCoding.CollectionAndData.ToTuple``2(``0,``1)
+  name.vb: ToTuple(Of A, B)(A, B)
+  fullName: SpeedyCoding.CollectionAndData.ToTuple<A, B>(A, B)
+  fullName.vb: SpeedyCoding.CollectionAndData.ToTuple(Of A, B)(A, B)
+  nameWithType: CollectionAndData.ToTuple<A, B>(A, B)
+  nameWithType.vb: CollectionAndData.ToTuple(Of A, B)(A, B)
+- uid: SpeedyCoding.CollectionAndData.xRange(System.Double,System.Int32,System.Double)
+  name: xRange(Double, Int32, Double)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_xRange_System_Double_System_Int32_System_Double_
+  commentId: M:SpeedyCoding.CollectionAndData.xRange(System.Double,System.Int32,System.Double)
+  fullName: SpeedyCoding.CollectionAndData.xRange(System.Double, System.Int32, System.Double)
+  nameWithType: CollectionAndData.xRange(Double, Int32, Double)
+- uid: SpeedyCoding.CollectionAndData.xRange(System.Int32,System.Int32)
+  name: xRange(Int32, Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_xRange_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.xRange(System.Int32,System.Int32)
+  fullName: SpeedyCoding.CollectionAndData.xRange(System.Int32, System.Int32)
+  nameWithType: CollectionAndData.xRange(Int32, Int32)
+- uid: SpeedyCoding.CollectionAndData.xRange(System.Int32,System.Int32,System.Int32)
+  name: xRange(Int32, Int32, Int32)
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_xRange_System_Int32_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.CollectionAndData.xRange(System.Int32,System.Int32,System.Int32)
+  fullName: SpeedyCoding.CollectionAndData.xRange(System.Int32, System.Int32, System.Int32)
+  nameWithType: CollectionAndData.xRange(Int32, Int32, Int32)
+- uid: SpeedyCoding.CollectionAndData.xRange*
+  name: xRange
+  href: api/SpeedyCoding.CollectionAndData.html#SpeedyCoding_CollectionAndData_xRange_
+  commentId: Overload:SpeedyCoding.CollectionAndData.xRange
+  fullName: SpeedyCoding.CollectionAndData.xRange
+  nameWithType: CollectionAndData.xRange
+- uid: SpeedyCoding.Conversion
+  name: Conversion
+  href: api/SpeedyCoding.Conversion.html
+  commentId: T:SpeedyCoding.Conversion
+  fullName: SpeedyCoding.Conversion
+  nameWithType: Conversion
+- uid: SpeedyCoding.Conversion.ToDegree(System.Double)
+  name: ToDegree(Double)
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToDegree_System_Double_
+  commentId: M:SpeedyCoding.Conversion.ToDegree(System.Double)
+  fullName: SpeedyCoding.Conversion.ToDegree(System.Double)
+  nameWithType: Conversion.ToDegree(Double)
+- uid: SpeedyCoding.Conversion.ToDegree*
+  name: ToDegree
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToDegree_
+  commentId: Overload:SpeedyCoding.Conversion.ToDegree
+  fullName: SpeedyCoding.Conversion.ToDegree
+  nameWithType: Conversion.ToDegree
+- uid: SpeedyCoding.Conversion.ToNonNullable*
+  name: ToNonNullable
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToNonNullable_
+  commentId: Overload:SpeedyCoding.Conversion.ToNonNullable
+  fullName: SpeedyCoding.Conversion.ToNonNullable
+  nameWithType: Conversion.ToNonNullable
+- uid: SpeedyCoding.Conversion.ToNonNullable``1(System.Nullable{``0})
+  name: ToNonNullable<T>(Nullable<T>)
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToNonNullable__1_System_Nullable___0__
+  commentId: M:SpeedyCoding.Conversion.ToNonNullable``1(System.Nullable{``0})
+  name.vb: ToNonNullable(Of T)(Nullable(Of T))
+  fullName: SpeedyCoding.Conversion.ToNonNullable<T>(System.Nullable<T>)
+  fullName.vb: SpeedyCoding.Conversion.ToNonNullable(Of T)(System.Nullable(Of T))
+  nameWithType: Conversion.ToNonNullable<T>(Nullable<T>)
+  nameWithType.vb: Conversion.ToNonNullable(Of T)(Nullable(Of T))
+- uid: SpeedyCoding.Conversion.ToRadian(System.Double)
+  name: ToRadian(Double)
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToRadian_System_Double_
+  commentId: M:SpeedyCoding.Conversion.ToRadian(System.Double)
+  fullName: SpeedyCoding.Conversion.ToRadian(System.Double)
+  nameWithType: Conversion.ToRadian(Double)
+- uid: SpeedyCoding.Conversion.ToRadian*
+  name: ToRadian
+  href: api/SpeedyCoding.Conversion.html#SpeedyCoding_Conversion_ToRadian_
+  commentId: Overload:SpeedyCoding.Conversion.ToRadian
+  fullName: SpeedyCoding.Conversion.ToRadian
+  nameWithType: Conversion.ToRadian
+- uid: SpeedyCoding.Debug
+  name: Debug
+  href: api/SpeedyCoding.Debug.html
+  commentId: T:SpeedyCoding.Debug
+  fullName: SpeedyCoding.Debug
+  nameWithType: Debug
+- uid: SpeedyCoding.Debug.FailShow(System.Boolean,System.String)
+  name: FailShow(Boolean, String)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_FailShow_System_Boolean_System_String_
+  commentId: M:SpeedyCoding.Debug.FailShow(System.Boolean,System.String)
+  fullName: SpeedyCoding.Debug.FailShow(System.Boolean, System.String)
+  nameWithType: Debug.FailShow(Boolean, String)
+- uid: SpeedyCoding.Debug.FailShow*
+  name: FailShow
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_FailShow_
+  commentId: Overload:SpeedyCoding.Debug.FailShow
+  fullName: SpeedyCoding.Debug.FailShow
+  nameWithType: Debug.FailShow
+- uid: SpeedyCoding.Debug.Print*
+  name: Print
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Print_
+  commentId: Overload:SpeedyCoding.Debug.Print
+  fullName: SpeedyCoding.Debug.Print
+  nameWithType: Debug.Print
+- uid: SpeedyCoding.Debug.Print``1(``0)
+  name: Print<T>(T)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Print__1___0_
+  commentId: M:SpeedyCoding.Debug.Print``1(``0)
+  name.vb: Print(Of T)(T)
+  fullName: SpeedyCoding.Debug.Print<T>(T)
+  fullName.vb: SpeedyCoding.Debug.Print(Of T)(T)
+  nameWithType: Debug.Print<T>(T)
+  nameWithType.vb: Debug.Print(Of T)(T)
+- uid: SpeedyCoding.Debug.Print``1(``0,System.String)
+  name: Print<T>(T, String)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Print__1___0_System_String_
+  commentId: M:SpeedyCoding.Debug.Print``1(``0,System.String)
+  name.vb: Print(Of T)(T, String)
+  fullName: SpeedyCoding.Debug.Print<T>(T, System.String)
+  fullName.vb: SpeedyCoding.Debug.Print(Of T)(T, System.String)
+  nameWithType: Debug.Print<T>(T, String)
+  nameWithType.vb: Debug.Print(Of T)(T, String)
+- uid: SpeedyCoding.Debug.Print``1(System.Collections.Generic.IEnumerable{``0})
+  name: Print<T>(IEnumerable<T>)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Print__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:SpeedyCoding.Debug.Print``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: Print(Of T)(IEnumerable(Of T))
+  fullName: SpeedyCoding.Debug.Print<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: SpeedyCoding.Debug.Print(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: Debug.Print<T>(IEnumerable<T>)
+  nameWithType.vb: Debug.Print(Of T)(IEnumerable(Of T))
+- uid: SpeedyCoding.Debug.Print``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name: Print<T>(IEnumerable<T>, String)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Print__1_System_Collections_Generic_IEnumerable___0__System_String_
+  commentId: M:SpeedyCoding.Debug.Print``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name.vb: Print(Of T)(IEnumerable(Of T), String)
+  fullName: SpeedyCoding.Debug.Print<T>(System.Collections.Generic.IEnumerable<T>, System.String)
+  fullName.vb: SpeedyCoding.Debug.Print(Of T)(System.Collections.Generic.IEnumerable(Of T), System.String)
+  nameWithType: Debug.Print<T>(IEnumerable<T>, String)
+  nameWithType.vb: Debug.Print(Of T)(IEnumerable(Of T), String)
+- uid: SpeedyCoding.Debug.Show(System.Boolean,System.String,System.String)
+  name: Show(Boolean, String, String)
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Show_System_Boolean_System_String_System_String_
+  commentId: M:SpeedyCoding.Debug.Show(System.Boolean,System.String,System.String)
+  fullName: SpeedyCoding.Debug.Show(System.Boolean, System.String, System.String)
+  nameWithType: Debug.Show(Boolean, String, String)
+- uid: SpeedyCoding.Debug.Show*
+  name: Show
+  href: api/SpeedyCoding.Debug.html#SpeedyCoding_Debug_Show_
+  commentId: Overload:SpeedyCoding.Debug.Show
+  fullName: SpeedyCoding.Debug.Show
+  nameWithType: Debug.Show
+- uid: SpeedyCoding.Drawing
+  name: Drawing
+  href: api/SpeedyCoding.Drawing.html
+  commentId: T:SpeedyCoding.Drawing
+  fullName: SpeedyCoding.Drawing
+  nameWithType: Drawing
+- uid: SpeedyCoding.Drawing.ExpendRect(System.Drawing.Rectangle,System.Int32)
+  name: ExpendRect(Rectangle, Int32)
+  href: api/SpeedyCoding.Drawing.html#SpeedyCoding_Drawing_ExpendRect_System_Drawing_Rectangle_System_Int32_
+  commentId: M:SpeedyCoding.Drawing.ExpendRect(System.Drawing.Rectangle,System.Int32)
+  fullName: SpeedyCoding.Drawing.ExpendRect(System.Drawing.Rectangle, System.Int32)
+  nameWithType: Drawing.ExpendRect(Rectangle, Int32)
+- uid: SpeedyCoding.Drawing.ExpendRect*
+  name: ExpendRect
+  href: api/SpeedyCoding.Drawing.html#SpeedyCoding_Drawing_ExpendRect_
+  commentId: Overload:SpeedyCoding.Drawing.ExpendRect
+  fullName: SpeedyCoding.Drawing.ExpendRect
+  nameWithType: Drawing.ExpendRect
+- uid: SpeedyCoding.Drawing.ShurinkRect(System.Drawing.Rectangle,System.Int32)
+  name: ShurinkRect(Rectangle, Int32)
+  href: api/SpeedyCoding.Drawing.html#SpeedyCoding_Drawing_ShurinkRect_System_Drawing_Rectangle_System_Int32_
+  commentId: M:SpeedyCoding.Drawing.ShurinkRect(System.Drawing.Rectangle,System.Int32)
+  fullName: SpeedyCoding.Drawing.ShurinkRect(System.Drawing.Rectangle, System.Int32)
+  nameWithType: Drawing.ShurinkRect(Rectangle, Int32)
+- uid: SpeedyCoding.Drawing.ShurinkRect*
+  name: ShurinkRect
+  href: api/SpeedyCoding.Drawing.html#SpeedyCoding_Drawing_ShurinkRect_
+  commentId: Overload:SpeedyCoding.Drawing.ShurinkRect
+  fullName: SpeedyCoding.Drawing.ShurinkRect
+  nameWithType: Drawing.ShurinkRect
+- uid: SpeedyCoding.HigherOderFunction
+  name: HigherOderFunction
+  href: api/SpeedyCoding.HigherOderFunction.html
+  commentId: T:SpeedyCoding.HigherOderFunction
+  fullName: SpeedyCoding.HigherOderFunction
+  nameWithType: HigherOderFunction
+- uid: SpeedyCoding.HigherOderFunction.Act*
+  name: Act
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Act_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Act
+  fullName: SpeedyCoding.HigherOderFunction.Act
+  nameWithType: HigherOderFunction.Act
+- uid: SpeedyCoding.HigherOderFunction.Act``1(``0,System.Action{``0})
+  name: Act<A>(A, Action<A>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Act__1___0_System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.Act``1(``0,System.Action{``0})
+  name.vb: Act(Of A)(A, Action(Of A))
+  fullName: SpeedyCoding.HigherOderFunction.Act<A>(A, System.Action<A>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Act(Of A)(A, System.Action(Of A))
+  nameWithType: HigherOderFunction.Act<A>(A, Action<A>)
+  nameWithType.vb: HigherOderFunction.Act(Of A)(A, Action(Of A))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop*
+  name: ActLoop
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.ActLoop
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop
+  nameWithType: HigherOderFunction.ActLoop
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(``0[0:,0:,0:],System.Action{``0})
+  name: ActLoop<T>(T[,,], Action<T>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1___0_0__0__0___System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(``0[0:,0:,0:],System.Action{``0})
+  name.vb: ActLoop(Of T)(T(,,), Action(Of T))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<T>(T[,,], System.Action<T>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of T)(T(,,), System.Action(Of T))
+  nameWithType: HigherOderFunction.ActLoop<T>(T[,,], Action<T>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of T)(T(,,), Action(Of T))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(``0[0:,0:],System.Action{``0})
+  name: ActLoop<T>(T[,], Action<T>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1___0_0__0___System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(``0[0:,0:],System.Action{``0})
+  name.vb: ActLoop(Of T)(T(,), Action(Of T))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<T>(T[,], System.Action<T>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of T)(T(,), System.Action(Of T))
+  nameWithType: HigherOderFunction.ActLoop<T>(T[,], Action<T>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of T)(T(,), Action(Of T))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0,System.Int32})
+  name: ActLoop<A>(IEnumerable<A>, Action<A, Int32>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1_System_Collections_Generic_IEnumerable___0__System_Action___0_System_Int32__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0,System.Int32})
+  name.vb: ActLoop(Of A)(IEnumerable(Of A), Action(Of A, Int32))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<A>(System.Collections.Generic.IEnumerable<A>, System.Action<A, System.Int32>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of A)(System.Collections.Generic.IEnumerable(Of A), System.Action(Of A, System.Int32))
+  nameWithType: HigherOderFunction.ActLoop<A>(IEnumerable<A>, Action<A, Int32>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of A)(IEnumerable(Of A), Action(Of A, Int32))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0})
+  name: ActLoop<A>(IEnumerable<A>, Action<A>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1_System_Collections_Generic_IEnumerable___0__System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{``0},System.Action{``0})
+  name.vb: ActLoop(Of A)(IEnumerable(Of A), Action(Of A))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<A>(System.Collections.Generic.IEnumerable<A>, System.Action<A>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of A)(System.Collections.Generic.IEnumerable(Of A), System.Action(Of A))
+  nameWithType: HigherOderFunction.ActLoop<A>(IEnumerable<A>, Action<A>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of A)(IEnumerable(Of A), Action(Of A))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.Action{``0})
+  name: ActLoop<A>(IEnumerable<IEnumerable<A>>, Action<A>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable___0___System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.Action{``0})
+  name.vb: ActLoop(Of A)(IEnumerable(Of IEnumerable(Of A)), Action(Of A))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<A>(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<A>>, System.Action<A>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of A)(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of A)), System.Action(Of A))
+  nameWithType: HigherOderFunction.ActLoop<A>(IEnumerable<IEnumerable<A>>, Action<A>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of A)(IEnumerable(Of IEnumerable(Of A)), Action(Of A))
+- uid: SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}}},System.Action{``0})
+  name: ActLoop<A>(IEnumerable<IEnumerable<IEnumerable<A>>>, Action<A>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_ActLoop__1_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable___0____System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.ActLoop``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}}},System.Action{``0})
+  name.vb: ActLoop(Of A)(IEnumerable(Of IEnumerable(Of IEnumerable(Of A))), Action(Of A))
+  fullName: SpeedyCoding.HigherOderFunction.ActLoop<A>(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<A>>>, System.Action<A>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.ActLoop(Of A)(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of A))), System.Action(Of A))
+  nameWithType: HigherOderFunction.ActLoop<A>(IEnumerable<IEnumerable<IEnumerable<A>>>, Action<A>)
+  nameWithType.vb: HigherOderFunction.ActLoop(Of A)(IEnumerable(Of IEnumerable(Of IEnumerable(Of A))), Action(Of A))
+- uid: SpeedyCoding.HigherOderFunction.Foldl*
+  name: Foldl
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Foldl_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Foldl
+  fullName: SpeedyCoding.HigherOderFunction.Foldl
+  nameWithType: HigherOderFunction.Foldl
+- uid: SpeedyCoding.HigherOderFunction.FoldL*
+  name: FoldL
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_FoldL_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.FoldL
+  fullName: SpeedyCoding.HigherOderFunction.FoldL
+  nameWithType: HigherOderFunction.FoldL
+- uid: SpeedyCoding.HigherOderFunction.FoldL``1(System.Collections.Generic.IEnumerable{System.Func{``0,``0}},``0)
+  name: FoldL<A>(IEnumerable<Func<A, A>>, A)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_FoldL__1_System_Collections_Generic_IEnumerable_System_Func___0___0_____0_
+  commentId: M:SpeedyCoding.HigherOderFunction.FoldL``1(System.Collections.Generic.IEnumerable{System.Func{``0,``0}},``0)
+  name.vb: FoldL(Of A)(IEnumerable(Of Func(Of A, A)), A)
+  fullName: SpeedyCoding.HigherOderFunction.FoldL<A>(System.Collections.Generic.IEnumerable<System.Func<A, A>>, A)
+  fullName.vb: SpeedyCoding.HigherOderFunction.FoldL(Of A)(System.Collections.Generic.IEnumerable(Of System.Func(Of A, A)), A)
+  nameWithType: HigherOderFunction.FoldL<A>(IEnumerable<Func<A, A>>, A)
+  nameWithType.vb: HigherOderFunction.FoldL(Of A)(IEnumerable(Of Func(Of A, A)), A)
+- uid: SpeedyCoding.HigherOderFunction.Foldl``2(System.Func{``0,``1,``0},``0,System.Collections.Generic.IEnumerable{``1})
+  name: Foldl<A, B>(Func<A, B, A>, A, IEnumerable<B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Foldl__2_System_Func___0___1___0____0_System_Collections_Generic_IEnumerable___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.Foldl``2(System.Func{``0,``1,``0},``0,System.Collections.Generic.IEnumerable{``1})
+  name.vb: Foldl(Of A, B)(Func(Of A, B, A), A, IEnumerable(Of B))
+  fullName: SpeedyCoding.HigherOderFunction.Foldl<A, B>(System.Func<A, B, A>, A, System.Collections.Generic.IEnumerable<B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Foldl(Of A, B)(System.Func(Of A, B, A), A, System.Collections.Generic.IEnumerable(Of B))
+  nameWithType: HigherOderFunction.Foldl<A, B>(Func<A, B, A>, A, IEnumerable<B>)
+  nameWithType.vb: HigherOderFunction.Foldl(Of A, B)(Func(Of A, B, A), A, IEnumerable(Of B))
+- uid: SpeedyCoding.HigherOderFunction.Foldr*
+  name: Foldr
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Foldr_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Foldr
+  fullName: SpeedyCoding.HigherOderFunction.Foldr
+  nameWithType: HigherOderFunction.Foldr
+- uid: SpeedyCoding.HigherOderFunction.Foldr``2(System.Func{``1,``0,``0},``0,System.Collections.Generic.IEnumerable{``1})
+  name: Foldr<A, B>(Func<B, A, A>, A, IEnumerable<B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Foldr__2_System_Func___1___0___0____0_System_Collections_Generic_IEnumerable___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.Foldr``2(System.Func{``1,``0,``0},``0,System.Collections.Generic.IEnumerable{``1})
+  name.vb: Foldr(Of A, B)(Func(Of B, A, A), A, IEnumerable(Of B))
+  fullName: SpeedyCoding.HigherOderFunction.Foldr<A, B>(System.Func<B, A, A>, A, System.Collections.Generic.IEnumerable<B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Foldr(Of A, B)(System.Func(Of B, A, A), A, System.Collections.Generic.IEnumerable(Of B))
+  nameWithType: HigherOderFunction.Foldr<A, B>(Func<B, A, A>, A, IEnumerable<B>)
+  nameWithType.vb: HigherOderFunction.Foldr(Of A, B)(Func(Of B, A, A), A, IEnumerable(Of B))
+- uid: SpeedyCoding.HigherOderFunction.Map*
+  name: Map
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Map_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Map
+  fullName: SpeedyCoding.HigherOderFunction.Map
+  nameWithType: HigherOderFunction.Map
+- uid: SpeedyCoding.HigherOderFunction.Map``2(``0,System.Func{``0,``1})
+  name: Map<A, B>(A, Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Map__2___0_System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.Map``2(``0,System.Func{``0,``1})
+  name.vb: Map(Of A, B)(A, Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.Map<A, B>(A, System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Map(Of A, B)(A, System.Func(Of A, B))
+  nameWithType: HigherOderFunction.Map<A, B>(A, Func<A, B>)
+  nameWithType.vb: HigherOderFunction.Map(Of A, B)(A, Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.MapLoop*
+  name: MapLoop
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_MapLoop_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.MapLoop
+  fullName: SpeedyCoding.HigherOderFunction.MapLoop
+  nameWithType: HigherOderFunction.MapLoop
+- uid: SpeedyCoding.HigherOderFunction.MapLoop``2(``0[][][],System.Func{``0,``1})
+  name: MapLoop<A, B>(A[][][], Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_MapLoop__2___0_______System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.MapLoop``2(``0[][][],System.Func{``0,``1})
+  name.vb: MapLoop(Of A, B)(A()()(), Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.MapLoop<A, B>(A[][][], System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.MapLoop(Of A, B)(A()()(), System.Func(Of A, B))
+  nameWithType: HigherOderFunction.MapLoop<A, B>(A[][][], Func<A, B>)
+  nameWithType.vb: HigherOderFunction.MapLoop(Of A, B)(A()()(), Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.MapLoop``2(``0[0:,0:,0:],System.Func{``0,``1})
+  name: MapLoop<A, B>(A[,,], Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_MapLoop__2___0_0__0__0___System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.MapLoop``2(``0[0:,0:,0:],System.Func{``0,``1})
+  name.vb: MapLoop(Of A, B)(A(,,), Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.MapLoop<A, B>(A[,,], System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.MapLoop(Of A, B)(A(,,), System.Func(Of A, B))
+  nameWithType: HigherOderFunction.MapLoop<A, B>(A[,,], Func<A, B>)
+  nameWithType.vb: HigherOderFunction.MapLoop(Of A, B)(A(,,), Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.MapLoop``2(``0[0:,0:],System.Func{``0,``1})
+  name: MapLoop<A, B>(A[,], Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_MapLoop__2___0_0__0___System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.MapLoop``2(``0[0:,0:],System.Func{``0,``1})
+  name.vb: MapLoop(Of A, B)(A(,), Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.MapLoop<A, B>(A[,], System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.MapLoop(Of A, B)(A(,), System.Func(Of A, B))
+  nameWithType: HigherOderFunction.MapLoop<A, B>(A[,], Func<A, B>)
+  nameWithType.vb: HigherOderFunction.MapLoop(Of A, B)(A(,), Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.MapLoop``2(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.Func{``0,``1})
+  name: MapLoop<A, B>(IEnumerable<IEnumerable<A>>, Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_MapLoop__2_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable___0___System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.MapLoop``2(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.Func{``0,``1})
+  name.vb: MapLoop(Of A, B)(IEnumerable(Of IEnumerable(Of A)), Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.MapLoop<A, B>(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<A>>, System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.MapLoop(Of A, B)(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of A)), System.Func(Of A, B))
+  nameWithType: HigherOderFunction.MapLoop<A, B>(IEnumerable<IEnumerable<A>>, Func<A, B>)
+  nameWithType.vb: HigherOderFunction.MapLoop(Of A, B)(IEnumerable(Of IEnumerable(Of A)), Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.Measure*
+  name: Measure
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Measure
+  fullName: SpeedyCoding.HigherOderFunction.Measure
+  nameWithType: HigherOderFunction.Measure
+- uid: SpeedyCoding.HigherOderFunction.Measure_Act*
+  name: Measure_Act
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure_Act_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Measure_Act
+  fullName: SpeedyCoding.HigherOderFunction.Measure_Act
+  nameWithType: HigherOderFunction.Measure_Act
+- uid: SpeedyCoding.HigherOderFunction.Measure_Act``1(``0,System.String,System.Int32,System.Action{``0})
+  name: Measure_Act<A>(A, String, Int32, Action<A>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure_Act__1___0_System_String_System_Int32_System_Action___0__
+  commentId: M:SpeedyCoding.HigherOderFunction.Measure_Act``1(``0,System.String,System.Int32,System.Action{``0})
+  name.vb: Measure_Act(Of A)(A, String, Int32, Action(Of A))
+  fullName: SpeedyCoding.HigherOderFunction.Measure_Act<A>(A, System.String, System.Int32, System.Action<A>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Measure_Act(Of A)(A, System.String, System.Int32, System.Action(Of A))
+  nameWithType: HigherOderFunction.Measure_Act<A>(A, String, Int32, Action<A>)
+  nameWithType.vb: HigherOderFunction.Measure_Act(Of A)(A, String, Int32, Action(Of A))
+- uid: SpeedyCoding.HigherOderFunction.Measure_Map*
+  name: Measure_Map
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure_Map_
+  commentId: Overload:SpeedyCoding.HigherOderFunction.Measure_Map
+  fullName: SpeedyCoding.HigherOderFunction.Measure_Map
+  nameWithType: HigherOderFunction.Measure_Map
+- uid: SpeedyCoding.HigherOderFunction.Measure_Map``2(``0,System.String,System.Int32,System.Func{``0,``1})
+  name: Measure_Map<A, B>(A, String, Int32, Func<A, B>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure_Map__2___0_System_String_System_Int32_System_Func___0___1__
+  commentId: M:SpeedyCoding.HigherOderFunction.Measure_Map``2(``0,System.String,System.Int32,System.Func{``0,``1})
+  name.vb: Measure_Map(Of A, B)(A, String, Int32, Func(Of A, B))
+  fullName: SpeedyCoding.HigherOderFunction.Measure_Map<A, B>(A, System.String, System.Int32, System.Func<A, B>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Measure_Map(Of A, B)(A, System.String, System.Int32, System.Func(Of A, B))
+  nameWithType: HigherOderFunction.Measure_Map<A, B>(A, String, Int32, Func<A, B>)
+  nameWithType.vb: HigherOderFunction.Measure_Map(Of A, B)(A, String, Int32, Func(Of A, B))
+- uid: SpeedyCoding.HigherOderFunction.Measure``3(``0,``1,System.String,System.Int32,System.Func{``0,``1,``2})
+  name: Measure<A, B, C>(A, B, String, Int32, Func<A, B, C>)
+  href: api/SpeedyCoding.HigherOderFunction.html#SpeedyCoding_HigherOderFunction_Measure__3___0___1_System_String_System_Int32_System_Func___0___1___2__
+  commentId: M:SpeedyCoding.HigherOderFunction.Measure``3(``0,``1,System.String,System.Int32,System.Func{``0,``1,``2})
+  name.vb: Measure(Of A, B, C)(A, B, String, Int32, Func(Of A, B, C))
+  fullName: SpeedyCoding.HigherOderFunction.Measure<A, B, C>(A, B, System.String, System.Int32, System.Func<A, B, C>)
+  fullName.vb: SpeedyCoding.HigherOderFunction.Measure(Of A, B, C)(A, B, System.String, System.Int32, System.Func(Of A, B, C))
+  nameWithType: HigherOderFunction.Measure<A, B, C>(A, B, String, Int32, Func<A, B, C>)
+  nameWithType.vb: HigherOderFunction.Measure(Of A, B, C)(A, B, String, Int32, Func(Of A, B, C))
+- uid: SpeedyCoding.IncompletePatternMatchException
+  name: IncompletePatternMatchException
+  href: api/SpeedyCoding.IncompletePatternMatchException.html
+  commentId: T:SpeedyCoding.IncompletePatternMatchException
+  fullName: SpeedyCoding.IncompletePatternMatchException
+  nameWithType: IncompletePatternMatchException
+- uid: SpeedyCoding.IO
+  name: IO
+  href: api/SpeedyCoding.IO.html
+  commentId: T:SpeedyCoding.IO
+  fullName: SpeedyCoding.IO
+  nameWithType: IO
+- uid: SpeedyCoding.IO.CheckAndCreateDir(System.String)
+  name: CheckAndCreateDir(String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_CheckAndCreateDir_System_String_
+  commentId: M:SpeedyCoding.IO.CheckAndCreateDir(System.String)
+  fullName: SpeedyCoding.IO.CheckAndCreateDir(System.String)
+  nameWithType: IO.CheckAndCreateDir(String)
+- uid: SpeedyCoding.IO.CheckAndCreateDir*
+  name: CheckAndCreateDir
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_CheckAndCreateDir_
+  commentId: Overload:SpeedyCoding.IO.CheckAndCreateDir
+  fullName: SpeedyCoding.IO.CheckAndCreateDir
+  nameWithType: IO.CheckAndCreateDir
+- uid: SpeedyCoding.IO.CheckAndCreateFile(System.String)
+  name: CheckAndCreateFile(String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_CheckAndCreateFile_System_String_
+  commentId: M:SpeedyCoding.IO.CheckAndCreateFile(System.String)
+  fullName: SpeedyCoding.IO.CheckAndCreateFile(System.String)
+  nameWithType: IO.CheckAndCreateFile(String)
+- uid: SpeedyCoding.IO.CheckAndCreateFile*
+  name: CheckAndCreateFile
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_CheckAndCreateFile_
+  commentId: Overload:SpeedyCoding.IO.CheckAndCreateFile
+  fullName: SpeedyCoding.IO.CheckAndCreateFile
+  nameWithType: IO.CheckAndCreateFile
+- uid: SpeedyCoding.IO.ToCsv*
+  name: ToCsv
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsv_
+  commentId: Overload:SpeedyCoding.IO.ToCsv
+  fullName: SpeedyCoding.IO.ToCsv
+  nameWithType: IO.ToCsv
+- uid: SpeedyCoding.IO.ToCsv``1(``0[0:,0:],System.String)
+  name: ToCsv<T>(T[,], String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsv__1___0_0__0___System_String_
+  commentId: M:SpeedyCoding.IO.ToCsv``1(``0[0:,0:],System.String)
+  name.vb: ToCsv(Of T)(T(,), String)
+  fullName: SpeedyCoding.IO.ToCsv<T>(T[,], System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsv(Of T)(T(,), System.String)
+  nameWithType: IO.ToCsv<T>(T[,], String)
+  nameWithType.vb: IO.ToCsv(Of T)(T(,), String)
+- uid: SpeedyCoding.IO.ToCsv``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name: ToCsv<T>(IEnumerable<T>, String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsv__1_System_Collections_Generic_IEnumerable___0__System_String_
+  commentId: M:SpeedyCoding.IO.ToCsv``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name.vb: ToCsv(Of T)(IEnumerable(Of T), String)
+  fullName: SpeedyCoding.IO.ToCsv<T>(System.Collections.Generic.IEnumerable<T>, System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsv(Of T)(System.Collections.Generic.IEnumerable(Of T), System.String)
+  nameWithType: IO.ToCsv<T>(IEnumerable<T>, String)
+  nameWithType.vb: IO.ToCsv(Of T)(IEnumerable(Of T), String)
+- uid: SpeedyCoding.IO.ToCsv``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.String)
+  name: ToCsv<T>(IEnumerable<IEnumerable<T>>, String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsv__1_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable___0___System_String_
+  commentId: M:SpeedyCoding.IO.ToCsv``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.String)
+  name.vb: ToCsv(Of T)(IEnumerable(Of IEnumerable(Of T)), String)
+  fullName: SpeedyCoding.IO.ToCsv<T>(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<T>>, System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsv(Of T)(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of T)), System.String)
+  nameWithType: IO.ToCsv<T>(IEnumerable<IEnumerable<T>>, String)
+  nameWithType.vb: IO.ToCsv(Of T)(IEnumerable(Of IEnumerable(Of T)), String)
+- uid: SpeedyCoding.IO.ToCsvSave*
+  name: ToCsvSave
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsvSave_
+  commentId: Overload:SpeedyCoding.IO.ToCsvSave
+  fullName: SpeedyCoding.IO.ToCsvSave
+  nameWithType: IO.ToCsvSave
+- uid: SpeedyCoding.IO.ToCsvSave``1(``0[0:,0:],System.String)
+  name: ToCsvSave<T>(T[,], String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsvSave__1___0_0__0___System_String_
+  commentId: M:SpeedyCoding.IO.ToCsvSave``1(``0[0:,0:],System.String)
+  name.vb: ToCsvSave(Of T)(T(,), String)
+  fullName: SpeedyCoding.IO.ToCsvSave<T>(T[,], System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsvSave(Of T)(T(,), System.String)
+  nameWithType: IO.ToCsvSave<T>(T[,], String)
+  nameWithType.vb: IO.ToCsvSave(Of T)(T(,), String)
+- uid: SpeedyCoding.IO.ToCsvSave``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name: ToCsvSave<T>(IEnumerable<T>, String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsvSave__1_System_Collections_Generic_IEnumerable___0__System_String_
+  commentId: M:SpeedyCoding.IO.ToCsvSave``1(System.Collections.Generic.IEnumerable{``0},System.String)
+  name.vb: ToCsvSave(Of T)(IEnumerable(Of T), String)
+  fullName: SpeedyCoding.IO.ToCsvSave<T>(System.Collections.Generic.IEnumerable<T>, System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsvSave(Of T)(System.Collections.Generic.IEnumerable(Of T), System.String)
+  nameWithType: IO.ToCsvSave<T>(IEnumerable<T>, String)
+  nameWithType.vb: IO.ToCsvSave(Of T)(IEnumerable(Of T), String)
+- uid: SpeedyCoding.IO.ToCsvSave``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.String)
+  name: ToCsvSave<T>(IEnumerable<IEnumerable<T>>, String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_ToCsvSave__1_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable___0___System_String_
+  commentId: M:SpeedyCoding.IO.ToCsvSave``1(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{``0}},System.String)
+  name.vb: ToCsvSave(Of T)(IEnumerable(Of IEnumerable(Of T)), String)
+  fullName: SpeedyCoding.IO.ToCsvSave<T>(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<T>>, System.String)
+  fullName.vb: SpeedyCoding.IO.ToCsvSave(Of T)(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of T)), System.String)
+  nameWithType: IO.ToCsvSave<T>(IEnumerable<IEnumerable<T>>, String)
+  nameWithType.vb: IO.ToCsvSave(Of T)(IEnumerable(Of IEnumerable(Of T)), String)
+- uid: SpeedyCoding.IO.TrimBaseName(System.String)
+  name: TrimBaseName(String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimBaseName_System_String_
+  commentId: M:SpeedyCoding.IO.TrimBaseName(System.String)
+  fullName: SpeedyCoding.IO.TrimBaseName(System.String)
+  nameWithType: IO.TrimBaseName(String)
+- uid: SpeedyCoding.IO.TrimBaseName*
+  name: TrimBaseName
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimBaseName_
+  commentId: Overload:SpeedyCoding.IO.TrimBaseName
+  fullName: SpeedyCoding.IO.TrimBaseName
+  nameWithType: IO.TrimBaseName
+- uid: SpeedyCoding.IO.TrimDirPath(System.String)
+  name: TrimDirPath(String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimDirPath_System_String_
+  commentId: M:SpeedyCoding.IO.TrimDirPath(System.String)
+  fullName: SpeedyCoding.IO.TrimDirPath(System.String)
+  nameWithType: IO.TrimDirPath(String)
+- uid: SpeedyCoding.IO.TrimDirPath*
+  name: TrimDirPath
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimDirPath_
+  commentId: Overload:SpeedyCoding.IO.TrimDirPath
+  fullName: SpeedyCoding.IO.TrimDirPath
+  nameWithType: IO.TrimDirPath
+- uid: SpeedyCoding.IO.TrimFileNameOnly(System.String)
+  name: TrimFileNameOnly(String)
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimFileNameOnly_System_String_
+  commentId: M:SpeedyCoding.IO.TrimFileNameOnly(System.String)
+  fullName: SpeedyCoding.IO.TrimFileNameOnly(System.String)
+  nameWithType: IO.TrimFileNameOnly(String)
+- uid: SpeedyCoding.IO.TrimFileNameOnly*
+  name: TrimFileNameOnly
+  href: api/SpeedyCoding.IO.html#SpeedyCoding_IO_TrimFileNameOnly_
+  commentId: Overload:SpeedyCoding.IO.TrimFileNameOnly
+  fullName: SpeedyCoding.IO.TrimFileNameOnly
+  nameWithType: IO.TrimFileNameOnly
+- uid: SpeedyCoding.Mathematics
+  name: Mathematics
+  href: api/SpeedyCoding.Mathematics.html
+  commentId: T:SpeedyCoding.Mathematics
+  fullName: SpeedyCoding.Mathematics
+  nameWithType: Mathematics
+- uid: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double},System.Double,System.Double)
+  name: Integral(IEnumerable<Double>, IEnumerable<Double>, Double, Double)
+  href: api/SpeedyCoding.Mathematics.html#SpeedyCoding_Mathematics_Integral_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Double__System_Double_System_Double_
+  commentId: M:SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double},System.Double,System.Double)
+  name.vb: Integral(IEnumerable(Of Double), IEnumerable(Of Double), Double, Double)
+  fullName: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Double>, System.Double, System.Double)
+  fullName.vb: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Double), System.Double, System.Double)
+  nameWithType: Mathematics.Integral(IEnumerable<Double>, IEnumerable<Double>, Double, Double)
+  nameWithType.vb: Mathematics.Integral(IEnumerable(Of Double), IEnumerable(Of Double), Double, Double)
+- uid: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double},System.Int32,System.Int32)
+  name: Integral(IEnumerable<Double>, IEnumerable<Double>, Int32, Int32)
+  href: api/SpeedyCoding.Mathematics.html#SpeedyCoding_Mathematics_Integral_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Double__System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double},System.Int32,System.Int32)
+  name.vb: Integral(IEnumerable(Of Double), IEnumerable(Of Double), Int32, Int32)
+  fullName: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Double>, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Double), System.Int32, System.Int32)
+  nameWithType: Mathematics.Integral(IEnumerable<Double>, IEnumerable<Double>, Int32, Int32)
+  nameWithType.vb: Mathematics.Integral(IEnumerable(Of Double), IEnumerable(Of Double), Int32, Int32)
+- uid: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Int32},System.Int32,System.Int32)
+  name: Integral(IEnumerable<Double>, IEnumerable<Int32>, Int32, Int32)
+  href: api/SpeedyCoding.Mathematics.html#SpeedyCoding_Mathematics_Integral_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Int32__System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Int32},System.Int32,System.Int32)
+  name.vb: Integral(IEnumerable(Of Double), IEnumerable(Of Int32), Int32, Int32)
+  fullName: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Int32>, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Int32), System.Int32, System.Int32)
+  nameWithType: Mathematics.Integral(IEnumerable<Double>, IEnumerable<Int32>, Int32, Int32)
+  nameWithType.vb: Mathematics.Integral(IEnumerable(Of Double), IEnumerable(Of Int32), Int32, Int32)
+- uid: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Int32},System.Int32,System.Int32)
+  name: Integral(IEnumerable<Int32>, Int32, Int32)
+  href: api/SpeedyCoding.Mathematics.html#SpeedyCoding_Mathematics_Integral_System_Collections_Generic_IEnumerable_System_Int32__System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable{System.Int32},System.Int32,System.Int32)
+  name.vb: Integral(IEnumerable(Of Int32), Int32, Int32)
+  fullName: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable<System.Int32>, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Mathematics.Integral(System.Collections.Generic.IEnumerable(Of System.Int32), System.Int32, System.Int32)
+  nameWithType: Mathematics.Integral(IEnumerable<Int32>, Int32, Int32)
+  nameWithType.vb: Mathematics.Integral(IEnumerable(Of Int32), Int32, Int32)
+- uid: SpeedyCoding.Mathematics.Integral*
+  name: Integral
+  href: api/SpeedyCoding.Mathematics.html#SpeedyCoding_Mathematics_Integral_
+  commentId: Overload:SpeedyCoding.Mathematics.Integral
+  fullName: SpeedyCoding.Mathematics.Integral
+  nameWithType: Mathematics.Integral
+- uid: SpeedyCoding.Matrix
+  name: Matrix
+  href: api/SpeedyCoding.Matrix.html
+  commentId: T:SpeedyCoding.Matrix
+  fullName: SpeedyCoding.Matrix
+  nameWithType: Matrix
+- uid: SpeedyCoding.Matrix.Concate_H*
+  name: Concate_H
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_H_
+  commentId: Overload:SpeedyCoding.Matrix.Concate_H
+  fullName: SpeedyCoding.Matrix.Concate_H
+  nameWithType: Matrix.Concate_H
+- uid: SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:,0:],``0[0:,0:,0:])
+  name: Concate_H<T>(T[,,], T[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_H__1___0_0__0__0_____0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:,0:],``0[0:,0:,0:])
+  name.vb: Concate_H(Of T)(T(,,), T(,,))
+  fullName: SpeedyCoding.Matrix.Concate_H<T>(T[,,], T[,,])
+  fullName.vb: SpeedyCoding.Matrix.Concate_H(Of T)(T(,,), T(,,))
+  nameWithType: Matrix.Concate_H<T>(T[,,], T[,,])
+  nameWithType.vb: Matrix.Concate_H(Of T)(T(,,), T(,,))
+- uid: SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:,0:],``0[0:,0:,0:],System.Int32)
+  name: Concate_H<T>(T[,,], T[,,], Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_H__1___0_0__0__0_____0_0__0__0___System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:,0:],``0[0:,0:,0:],System.Int32)
+  name.vb: Concate_H(Of T)(T(,,), T(,,), Int32)
+  fullName: SpeedyCoding.Matrix.Concate_H<T>(T[,,], T[,,], System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Concate_H(Of T)(T(,,), T(,,), System.Int32)
+  nameWithType: Matrix.Concate_H<T>(T[,,], T[,,], Int32)
+  nameWithType.vb: Matrix.Concate_H(Of T)(T(,,), T(,,), Int32)
+- uid: SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:],``0[0:,0:])
+  name: Concate_H<T>(T[,], T[,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_H__1___0_0__0_____0_0__0___
+  commentId: M:SpeedyCoding.Matrix.Concate_H``1(``0[0:,0:],``0[0:,0:])
+  name.vb: Concate_H(Of T)(T(,), T(,))
+  fullName: SpeedyCoding.Matrix.Concate_H<T>(T[,], T[,])
+  fullName.vb: SpeedyCoding.Matrix.Concate_H(Of T)(T(,), T(,))
+  nameWithType: Matrix.Concate_H<T>(T[,], T[,])
+  nameWithType.vb: Matrix.Concate_H(Of T)(T(,), T(,))
+- uid: SpeedyCoding.Matrix.Concate_H``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``0})
+  name: Concate_H<T>(IEnumerable<T>, IEnumerable<T>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_H__1_System_Collections_Generic_IEnumerable___0__System_Collections_Generic_IEnumerable___0__
+  commentId: M:SpeedyCoding.Matrix.Concate_H``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``0})
+  name.vb: Concate_H(Of T)(IEnumerable(Of T), IEnumerable(Of T))
+  fullName: SpeedyCoding.Matrix.Concate_H<T>(System.Collections.Generic.IEnumerable<T>, System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: SpeedyCoding.Matrix.Concate_H(Of T)(System.Collections.Generic.IEnumerable(Of T), System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: Matrix.Concate_H<T>(IEnumerable<T>, IEnumerable<T>)
+  nameWithType.vb: Matrix.Concate_H(Of T)(IEnumerable(Of T), IEnumerable(Of T))
+- uid: SpeedyCoding.Matrix.Concate_V*
+  name: Concate_V
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_V_
+  commentId: Overload:SpeedyCoding.Matrix.Concate_V
+  fullName: SpeedyCoding.Matrix.Concate_V
+  nameWithType: Matrix.Concate_V
+- uid: SpeedyCoding.Matrix.Concate_V``1(``0[0:,0:,0:],``0[0:,0:,0:])
+  name: Concate_V<T>(T[,,], T[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Concate_V__1___0_0__0__0_____0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.Concate_V``1(``0[0:,0:,0:],``0[0:,0:,0:])
+  name.vb: Concate_V(Of T)(T(,,), T(,,))
+  fullName: SpeedyCoding.Matrix.Concate_V<T>(T[,,], T[,,])
+  fullName.vb: SpeedyCoding.Matrix.Concate_V(Of T)(T(,,), T(,,))
+  nameWithType: Matrix.Concate_V<T>(T[,,], T[,,])
+  nameWithType.vb: Matrix.Concate_V(Of T)(T(,,), T(,,))
+- uid: SpeedyCoding.Matrix.DCopy*
+  name: DCopy
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_DCopy_
+  commentId: Overload:SpeedyCoding.Matrix.DCopy
+  fullName: SpeedyCoding.Matrix.DCopy
+  nameWithType: Matrix.DCopy
+- uid: SpeedyCoding.Matrix.DCopy``1(System.Array[])
+  name: DCopy<TSrc>(Array[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_DCopy__1_System_Array___
+  commentId: M:SpeedyCoding.Matrix.DCopy``1(System.Array[])
+  name.vb: DCopy(Of TSrc)(Array())
+  fullName: SpeedyCoding.Matrix.DCopy<TSrc>(System.Array[])
+  fullName.vb: SpeedyCoding.Matrix.DCopy(Of TSrc)(System.Array())
+  nameWithType: Matrix.DCopy<TSrc>(Array[])
+  nameWithType.vb: Matrix.DCopy(Of TSrc)(Array())
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Double}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Double}})
+  name: Dot(IEnumerable<IEnumerable<Double>>, IEnumerable<IEnumerable<Double>>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Double___System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Double___
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Double}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Double}})
+  name.vb: Dot(IEnumerable(Of IEnumerable(Of Double)), IEnumerable(Of IEnumerable(Of Double)))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Double>>, System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Double>>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Double)), System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Double)))
+  nameWithType: Matrix.Dot(IEnumerable<IEnumerable<Double>>, IEnumerable<IEnumerable<Double>>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of IEnumerable(Of Double)), IEnumerable(Of IEnumerable(Of Double)))
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Int32}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Int32}})
+  name: Dot(IEnumerable<IEnumerable<Int32>>, IEnumerable<IEnumerable<Int32>>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Int32___System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Int32___
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Int32}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Int32}})
+  name.vb: Dot(IEnumerable(Of IEnumerable(Of Int32)), IEnumerable(Of IEnumerable(Of Int32)))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Int32>>, System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Int32>>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Int32)), System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Int32)))
+  nameWithType: Matrix.Dot(IEnumerable<IEnumerable<Int32>>, IEnumerable<IEnumerable<Int32>>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of IEnumerable(Of Int32)), IEnumerable(Of IEnumerable(Of Int32)))
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Single}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Single}})
+  name: Dot(IEnumerable<IEnumerable<Single>>, IEnumerable<IEnumerable<Single>>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Single___System_Collections_Generic_IEnumerable_System_Collections_Generic_IEnumerable_System_Single___
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Single}},System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{System.Single}})
+  name.vb: Dot(IEnumerable(Of IEnumerable(Of Single)), IEnumerable(Of IEnumerable(Of Single)))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Single>>, System.Collections.Generic.IEnumerable<System.Collections.Generic.IEnumerable<System.Single>>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Single)), System.Collections.Generic.IEnumerable(Of System.Collections.Generic.IEnumerable(Of System.Single)))
+  nameWithType: Matrix.Dot(IEnumerable<IEnumerable<Single>>, IEnumerable<IEnumerable<Single>>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of IEnumerable(Of Single)), IEnumerable(Of IEnumerable(Of Single)))
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name: Dot(IEnumerable<Double>, IEnumerable<Double>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: Dot(IEnumerable(Of Double), IEnumerable(Of Double))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: Matrix.Dot(IEnumerable<Double>, IEnumerable<Double>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of Double), IEnumerable(Of Double))
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Int32},System.Collections.Generic.IEnumerable{System.Int32})
+  name: Dot(IEnumerable<Int32>, IEnumerable<Int32>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Int32__System_Collections_Generic_IEnumerable_System_Int32__
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Int32},System.Collections.Generic.IEnumerable{System.Int32})
+  name.vb: Dot(IEnumerable(Of Int32), IEnumerable(Of Int32))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Int32>, System.Collections.Generic.IEnumerable<System.Int32>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Int32), System.Collections.Generic.IEnumerable(Of System.Int32))
+  nameWithType: Matrix.Dot(IEnumerable<Int32>, IEnumerable<Int32>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of Int32), IEnumerable(Of Int32))
+- uid: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Single},System.Collections.Generic.IEnumerable{System.Single})
+  name: Dot(IEnumerable<Single>, IEnumerable<Single>)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_System_Collections_Generic_IEnumerable_System_Single__System_Collections_Generic_IEnumerable_System_Single__
+  commentId: M:SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable{System.Single},System.Collections.Generic.IEnumerable{System.Single})
+  name.vb: Dot(IEnumerable(Of Single), IEnumerable(Of Single))
+  fullName: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable<System.Single>, System.Collections.Generic.IEnumerable<System.Single>)
+  fullName.vb: SpeedyCoding.Matrix.Dot(System.Collections.Generic.IEnumerable(Of System.Single), System.Collections.Generic.IEnumerable(Of System.Single))
+  nameWithType: Matrix.Dot(IEnumerable<Single>, IEnumerable<Single>)
+  nameWithType.vb: Matrix.Dot(IEnumerable(Of Single), IEnumerable(Of Single))
+- uid: SpeedyCoding.Matrix.Dot*
+  name: Dot
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Dot_
+  commentId: Overload:SpeedyCoding.Matrix.Dot
+  fullName: SpeedyCoding.Matrix.Dot
+  nameWithType: Matrix.Dot
+- uid: SpeedyCoding.Matrix.Flatten*
+  name: Flatten
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Flatten_
+  commentId: Overload:SpeedyCoding.Matrix.Flatten
+  fullName: SpeedyCoding.Matrix.Flatten
+  nameWithType: Matrix.Flatten
+- uid: SpeedyCoding.Matrix.Flatten``1(``0[][])
+  name: Flatten<TSrc>(TSrc[][])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Flatten__1___0_____
+  commentId: M:SpeedyCoding.Matrix.Flatten``1(``0[][])
+  name.vb: Flatten(Of TSrc)(TSrc()())
+  fullName: SpeedyCoding.Matrix.Flatten<TSrc>(TSrc[][])
+  fullName.vb: SpeedyCoding.Matrix.Flatten(Of TSrc)(TSrc()())
+  nameWithType: Matrix.Flatten<TSrc>(TSrc[][])
+  nameWithType.vb: Matrix.Flatten(Of TSrc)(TSrc()())
+- uid: SpeedyCoding.Matrix.Flatten``1(``0[][][])
+  name: Flatten<TSrc>(TSrc[][][])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Flatten__1___0_______
+  commentId: M:SpeedyCoding.Matrix.Flatten``1(``0[][][])
+  name.vb: Flatten(Of TSrc)(TSrc()()())
+  fullName: SpeedyCoding.Matrix.Flatten<TSrc>(TSrc[][][])
+  fullName.vb: SpeedyCoding.Matrix.Flatten(Of TSrc)(TSrc()()())
+  nameWithType: Matrix.Flatten<TSrc>(TSrc[][][])
+  nameWithType.vb: Matrix.Flatten(Of TSrc)(TSrc()()())
+- uid: SpeedyCoding.Matrix.Flatten``1(``0[0:,0:,0:])
+  name: Flatten<TSrc>(TSrc[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Flatten__1___0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.Flatten``1(``0[0:,0:,0:])
+  name.vb: Flatten(Of TSrc)(TSrc(,,))
+  fullName: SpeedyCoding.Matrix.Flatten<TSrc>(TSrc[,,])
+  fullName.vb: SpeedyCoding.Matrix.Flatten(Of TSrc)(TSrc(,,))
+  nameWithType: Matrix.Flatten<TSrc>(TSrc[,,])
+  nameWithType.vb: Matrix.Flatten(Of TSrc)(TSrc(,,))
+- uid: SpeedyCoding.Matrix.Flatten``1(``0[0:,0:])
+  name: Flatten<TSrc>(TSrc[,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Flatten__1___0_0__0___
+  commentId: M:SpeedyCoding.Matrix.Flatten``1(``0[0:,0:])
+  name.vb: Flatten(Of TSrc)(TSrc(,))
+  fullName: SpeedyCoding.Matrix.Flatten<TSrc>(TSrc[,])
+  fullName.vb: SpeedyCoding.Matrix.Flatten(Of TSrc)(TSrc(,))
+  nameWithType: Matrix.Flatten<TSrc>(TSrc[,])
+  nameWithType.vb: Matrix.Flatten(Of TSrc)(TSrc(,))
+- uid: SpeedyCoding.Matrix.JArray*
+  name: JArray
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_JArray_
+  commentId: Overload:SpeedyCoding.Matrix.JArray
+  fullName: SpeedyCoding.Matrix.JArray
+  nameWithType: Matrix.JArray
+- uid: SpeedyCoding.Matrix.JArray``1(System.Int32,System.Int32)
+  name: JArray<T>(Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_JArray__1_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.JArray``1(System.Int32,System.Int32)
+  name.vb: JArray(Of T)(Int32, Int32)
+  fullName: SpeedyCoding.Matrix.JArray<T>(System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.JArray(Of T)(System.Int32, System.Int32)
+  nameWithType: Matrix.JArray<T>(Int32, Int32)
+  nameWithType.vb: Matrix.JArray(Of T)(Int32, Int32)
+- uid: SpeedyCoding.Matrix.JArray``1(System.Int32,System.Int32,System.Int32)
+  name: JArray<T>(Int32, Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_JArray__1_System_Int32_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.JArray``1(System.Int32,System.Int32,System.Int32)
+  name.vb: JArray(Of T)(Int32, Int32, Int32)
+  fullName: SpeedyCoding.Matrix.JArray<T>(System.Int32, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.JArray(Of T)(System.Int32, System.Int32, System.Int32)
+  nameWithType: Matrix.JArray<T>(Int32, Int32, Int32)
+  nameWithType.vb: Matrix.JArray(Of T)(Int32, Int32, Int32)
+- uid: SpeedyCoding.Matrix.MaxArray*
+  name: MaxArray
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MaxArray_
+  commentId: Overload:SpeedyCoding.Matrix.MaxArray
+  fullName: SpeedyCoding.Matrix.MaxArray
+  nameWithType: Matrix.MaxArray
+- uid: SpeedyCoding.Matrix.MaxArray``1(``0[0:,0:,0:])
+  name: MaxArray<T>(T[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MaxArray__1___0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.MaxArray``1(``0[0:,0:,0:])
+  name.vb: MaxArray(Of T)(T(,,))
+  fullName: SpeedyCoding.Matrix.MaxArray<T>(T[,,])
+  fullName.vb: SpeedyCoding.Matrix.MaxArray(Of T)(T(,,))
+  nameWithType: Matrix.MaxArray<T>(T[,,])
+  nameWithType.vb: Matrix.MaxArray(Of T)(T(,,))
+- uid: SpeedyCoding.Matrix.MaxArray``1(``0[0:,0:])
+  name: MaxArray<T>(T[,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MaxArray__1___0_0__0___
+  commentId: M:SpeedyCoding.Matrix.MaxArray``1(``0[0:,0:])
+  name.vb: MaxArray(Of T)(T(,))
+  fullName: SpeedyCoding.Matrix.MaxArray<T>(T[,])
+  fullName.vb: SpeedyCoding.Matrix.MaxArray(Of T)(T(,))
+  nameWithType: Matrix.MaxArray<T>(T[,])
+  nameWithType.vb: Matrix.MaxArray(Of T)(T(,))
+- uid: SpeedyCoding.Matrix.MinArray*
+  name: MinArray
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MinArray_
+  commentId: Overload:SpeedyCoding.Matrix.MinArray
+  fullName: SpeedyCoding.Matrix.MinArray
+  nameWithType: Matrix.MinArray
+- uid: SpeedyCoding.Matrix.MinArray``1(``0[0:,0:,0:])
+  name: MinArray<T>(T[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MinArray__1___0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.MinArray``1(``0[0:,0:,0:])
+  name.vb: MinArray(Of T)(T(,,))
+  fullName: SpeedyCoding.Matrix.MinArray<T>(T[,,])
+  fullName.vb: SpeedyCoding.Matrix.MinArray(Of T)(T(,,))
+  nameWithType: Matrix.MinArray<T>(T[,,])
+  nameWithType.vb: Matrix.MinArray(Of T)(T(,,))
+- uid: SpeedyCoding.Matrix.MinArray``1(``0[0:,0:])
+  name: MinArray<T>(T[,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_MinArray__1___0_0__0___
+  commentId: M:SpeedyCoding.Matrix.MinArray``1(``0[0:,0:])
+  name.vb: MinArray(Of T)(T(,))
+  fullName: SpeedyCoding.Matrix.MinArray<T>(T[,])
+  fullName.vb: SpeedyCoding.Matrix.MinArray(Of T)(T(,))
+  nameWithType: Matrix.MinArray<T>(T[,])
+  nameWithType.vb: Matrix.MinArray(Of T)(T(,))
+- uid: SpeedyCoding.Matrix.Padding*
+  name: Padding
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Padding_
+  commentId: Overload:SpeedyCoding.Matrix.Padding
+  fullName: SpeedyCoding.Matrix.Padding
+  nameWithType: Matrix.Padding
+- uid: SpeedyCoding.Matrix.Padding``1(``0[][],System.Int32)
+  name: Padding<TSrc>(TSrc[][], Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Padding__1___0_____System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Padding``1(``0[][],System.Int32)
+  name.vb: Padding(Of TSrc)(TSrc()(), Int32)
+  fullName: SpeedyCoding.Matrix.Padding<TSrc>(TSrc[][], System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Padding(Of TSrc)(TSrc()(), System.Int32)
+  nameWithType: Matrix.Padding<TSrc>(TSrc[][], Int32)
+  nameWithType.vb: Matrix.Padding(Of TSrc)(TSrc()(), Int32)
+- uid: SpeedyCoding.Matrix.Padding``1(``0[0:,0:],System.Int32)
+  name: Padding<TSrc>(TSrc[,], Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Padding__1___0_0__0___System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Padding``1(``0[0:,0:],System.Int32)
+  name.vb: Padding(Of TSrc)(TSrc(,), Int32)
+  fullName: SpeedyCoding.Matrix.Padding<TSrc>(TSrc[,], System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Padding(Of TSrc)(TSrc(,), System.Int32)
+  nameWithType: Matrix.Padding<TSrc>(TSrc[,], Int32)
+  nameWithType.vb: Matrix.Padding(Of TSrc)(TSrc(,), Int32)
+- uid: SpeedyCoding.Matrix.PartialDot(System.Double[][],System.Double[][],System.Int32[],System.Int32[])
+  name: PartialDot(Double[][], Double[][], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot_System_Double_____System_Double_____System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.PartialDot(System.Double[][],System.Double[][],System.Int32[],System.Int32[])
+  name.vb: PartialDot(Double()(), Double()(), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.PartialDot(System.Double[][], System.Double[][], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.PartialDot(System.Double()(), System.Double()(), System.Int32(), System.Int32())
+  nameWithType: Matrix.PartialDot(Double[][], Double[][], Int32[], Int32[])
+  nameWithType.vb: Matrix.PartialDot(Double()(), Double()(), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.PartialDot(System.Double[0:,0:],System.Double[0:,0:],System.Int32[],System.Int32[])
+  name: PartialDot(Double[,], Double[,], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot_System_Double_0__0___System_Double_0__0___System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.PartialDot(System.Double[0:,0:],System.Double[0:,0:],System.Int32[],System.Int32[])
+  name.vb: PartialDot(Double(,), Double(,), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.PartialDot(System.Double[,], System.Double[,], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.PartialDot(System.Double(,), System.Double(,), System.Int32(), System.Int32())
+  nameWithType: Matrix.PartialDot(Double[,], Double[,], Int32[], Int32[])
+  nameWithType.vb: Matrix.PartialDot(Double(,), Double(,), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.PartialDot(System.Int32[][],System.Int32[][],System.Int32[],System.Int32[])
+  name: PartialDot(Int32[][], Int32[][], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot_System_Int32_____System_Int32_____System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.PartialDot(System.Int32[][],System.Int32[][],System.Int32[],System.Int32[])
+  name.vb: PartialDot(Int32()(), Int32()(), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.PartialDot(System.Int32[][], System.Int32[][], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.PartialDot(System.Int32()(), System.Int32()(), System.Int32(), System.Int32())
+  nameWithType: Matrix.PartialDot(Int32[][], Int32[][], Int32[], Int32[])
+  nameWithType.vb: Matrix.PartialDot(Int32()(), Int32()(), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.PartialDot(System.Int32[0:,0:],System.Int32[0:,0:],System.Int32[],System.Int32[])
+  name: PartialDot(Int32[,], Int32[,], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot_System_Int32_0__0___System_Int32_0__0___System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.PartialDot(System.Int32[0:,0:],System.Int32[0:,0:],System.Int32[],System.Int32[])
+  name.vb: PartialDot(Int32(,), Int32(,), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.PartialDot(System.Int32[,], System.Int32[,], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.PartialDot(System.Int32(,), System.Int32(,), System.Int32(), System.Int32())
+  nameWithType: Matrix.PartialDot(Int32[,], Int32[,], Int32[], Int32[])
+  nameWithType.vb: Matrix.PartialDot(Int32(,), Int32(,), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.PartialDot*
+  name: PartialDot
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot_
+  commentId: Overload:SpeedyCoding.Matrix.PartialDot
+  fullName: SpeedyCoding.Matrix.PartialDot
+  nameWithType: Matrix.PartialDot
+- uid: SpeedyCoding.Matrix.PartialDot``1(``0[][],System.Object[][],System.Int32[],System.Int32[])
+  name: PartialDot<Tsrc>(Tsrc[][], Object[][], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_PartialDot__1___0_____System_Object_____System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.PartialDot``1(``0[][],System.Object[][],System.Int32[],System.Int32[])
+  name.vb: PartialDot(Of Tsrc)(Tsrc()(), Object()(), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.PartialDot<Tsrc>(Tsrc[][], System.Object[][], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.PartialDot(Of Tsrc)(Tsrc()(), System.Object()(), System.Int32(), System.Int32())
+  nameWithType: Matrix.PartialDot<Tsrc>(Tsrc[][], Object[][], Int32[], Int32[])
+  nameWithType.vb: Matrix.PartialDot(Of Tsrc)(Tsrc()(), Object()(), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.Reshape*
+  name: Reshape
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Reshape_
+  commentId: Overload:SpeedyCoding.Matrix.Reshape
+  fullName: SpeedyCoding.Matrix.Reshape
+  nameWithType: Matrix.Reshape
+- uid: SpeedyCoding.Matrix.Reshape``1(``0[],System.Int32,System.Int32)
+  name: Reshape<Tsrc>(Tsrc[], Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Reshape__1___0___System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Reshape``1(``0[],System.Int32,System.Int32)
+  name.vb: Reshape(Of Tsrc)(Tsrc(), Int32, Int32)
+  fullName: SpeedyCoding.Matrix.Reshape<Tsrc>(Tsrc[], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Reshape(Of Tsrc)(Tsrc(), System.Int32, System.Int32)
+  nameWithType: Matrix.Reshape<Tsrc>(Tsrc[], Int32, Int32)
+  nameWithType.vb: Matrix.Reshape(Of Tsrc)(Tsrc(), Int32, Int32)
+- uid: SpeedyCoding.Matrix.Reshape``1(``0[],System.Int32,System.Int32,System.Int32)
+  name: Reshape<Tsrc>(Tsrc[], Int32, Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Reshape__1___0___System_Int32_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Reshape``1(``0[],System.Int32,System.Int32,System.Int32)
+  name.vb: Reshape(Of Tsrc)(Tsrc(), Int32, Int32, Int32)
+  fullName: SpeedyCoding.Matrix.Reshape<Tsrc>(Tsrc[], System.Int32, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Reshape(Of Tsrc)(Tsrc(), System.Int32, System.Int32, System.Int32)
+  nameWithType: Matrix.Reshape<Tsrc>(Tsrc[], Int32, Int32, Int32)
+  nameWithType.vb: Matrix.Reshape(Of Tsrc)(Tsrc(), Int32, Int32, Int32)
+- uid: SpeedyCoding.Matrix.Slice1D*
+  name: Slice1D
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Slice1D_
+  commentId: Overload:SpeedyCoding.Matrix.Slice1D
+  fullName: SpeedyCoding.Matrix.Slice1D
+  nameWithType: Matrix.Slice1D
+- uid: SpeedyCoding.Matrix.Slice1D``1(``0[],System.Int32,System.Int32)
+  name: Slice1D<TSrc>(TSrc[], Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Slice1D__1___0___System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Slice1D``1(``0[],System.Int32,System.Int32)
+  name.vb: Slice1D(Of TSrc)(TSrc(), Int32, Int32)
+  fullName: SpeedyCoding.Matrix.Slice1D<TSrc>(TSrc[], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Slice1D(Of TSrc)(TSrc(), System.Int32, System.Int32)
+  nameWithType: Matrix.Slice1D<TSrc>(TSrc[], Int32, Int32)
+  nameWithType.vb: Matrix.Slice1D(Of TSrc)(TSrc(), Int32, Int32)
+- uid: SpeedyCoding.Matrix.Slice2D*
+  name: Slice2D
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Slice2D_
+  commentId: Overload:SpeedyCoding.Matrix.Slice2D
+  fullName: SpeedyCoding.Matrix.Slice2D
+  nameWithType: Matrix.Slice2D
+- uid: SpeedyCoding.Matrix.Slice2D``1(``0[][],System.Int32[],System.Int32[])
+  name: Slice2D<TSrc>(TSrc[][], Int32[], Int32[])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Slice2D__1___0_____System_Int32___System_Int32___
+  commentId: M:SpeedyCoding.Matrix.Slice2D``1(``0[][],System.Int32[],System.Int32[])
+  name.vb: Slice2D(Of TSrc)(TSrc()(), Int32(), Int32())
+  fullName: SpeedyCoding.Matrix.Slice2D<TSrc>(TSrc[][], System.Int32[], System.Int32[])
+  fullName.vb: SpeedyCoding.Matrix.Slice2D(Of TSrc)(TSrc()(), System.Int32(), System.Int32())
+  nameWithType: Matrix.Slice2D<TSrc>(TSrc[][], Int32[], Int32[])
+  nameWithType.vb: Matrix.Slice2D(Of TSrc)(TSrc()(), Int32(), Int32())
+- uid: SpeedyCoding.Matrix.ToJagged*
+  name: ToJagged
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToJagged_
+  commentId: Overload:SpeedyCoding.Matrix.ToJagged
+  fullName: SpeedyCoding.Matrix.ToJagged
+  nameWithType: Matrix.ToJagged
+- uid: SpeedyCoding.Matrix.ToJagged``1(``0[0:,0:,0:])
+  name: ToJagged<TSrc>(TSrc[,,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToJagged__1___0_0__0__0___
+  commentId: M:SpeedyCoding.Matrix.ToJagged``1(``0[0:,0:,0:])
+  name.vb: ToJagged(Of TSrc)(TSrc(,,))
+  fullName: SpeedyCoding.Matrix.ToJagged<TSrc>(TSrc[,,])
+  fullName.vb: SpeedyCoding.Matrix.ToJagged(Of TSrc)(TSrc(,,))
+  nameWithType: Matrix.ToJagged<TSrc>(TSrc[,,])
+  nameWithType.vb: Matrix.ToJagged(Of TSrc)(TSrc(,,))
+- uid: SpeedyCoding.Matrix.ToJagged``1(``0[0:,0:])
+  name: ToJagged<TSrc>(TSrc[,])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToJagged__1___0_0__0___
+  commentId: M:SpeedyCoding.Matrix.ToJagged``1(``0[0:,0:])
+  name.vb: ToJagged(Of TSrc)(TSrc(,))
+  fullName: SpeedyCoding.Matrix.ToJagged<TSrc>(TSrc[,])
+  fullName.vb: SpeedyCoding.Matrix.ToJagged(Of TSrc)(TSrc(,))
+  nameWithType: Matrix.ToJagged<TSrc>(TSrc[,])
+  nameWithType.vb: Matrix.ToJagged(Of TSrc)(TSrc(,))
+- uid: SpeedyCoding.Matrix.ToMat*
+  name: ToMat
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToMat_
+  commentId: Overload:SpeedyCoding.Matrix.ToMat
+  fullName: SpeedyCoding.Matrix.ToMat
+  nameWithType: Matrix.ToMat
+- uid: SpeedyCoding.Matrix.ToMat``1(``0[][])
+  name: ToMat<TSrc>(TSrc[][])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToMat__1___0_____
+  commentId: M:SpeedyCoding.Matrix.ToMat``1(``0[][])
+  name.vb: ToMat(Of TSrc)(TSrc()())
+  fullName: SpeedyCoding.Matrix.ToMat<TSrc>(TSrc[][])
+  fullName.vb: SpeedyCoding.Matrix.ToMat(Of TSrc)(TSrc()())
+  nameWithType: Matrix.ToMat<TSrc>(TSrc[][])
+  nameWithType.vb: Matrix.ToMat(Of TSrc)(TSrc()())
+- uid: SpeedyCoding.Matrix.ToMat``1(``0[][][])
+  name: ToMat<TSrc>(TSrc[][][])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ToMat__1___0_______
+  commentId: M:SpeedyCoding.Matrix.ToMat``1(``0[][][])
+  name.vb: ToMat(Of TSrc)(TSrc()()())
+  fullName: SpeedyCoding.Matrix.ToMat<TSrc>(TSrc[][][])
+  fullName.vb: SpeedyCoding.Matrix.ToMat(Of TSrc)(TSrc()()())
+  nameWithType: Matrix.ToMat<TSrc>(TSrc[][][])
+  nameWithType.vb: Matrix.ToMat(Of TSrc)(TSrc()()())
+- uid: SpeedyCoding.Matrix.Transpose*
+  name: Transpose
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Transpose_
+  commentId: Overload:SpeedyCoding.Matrix.Transpose
+  fullName: SpeedyCoding.Matrix.Transpose
+  nameWithType: Matrix.Transpose
+- uid: SpeedyCoding.Matrix.Transpose``1(``0[],System.Int32,System.Int32)
+  name: Transpose<T>(T[], Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Transpose__1___0___System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.Transpose``1(``0[],System.Int32,System.Int32)
+  name.vb: Transpose(Of T)(T(), Int32, Int32)
+  fullName: SpeedyCoding.Matrix.Transpose<T>(T[], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.Transpose(Of T)(T(), System.Int32, System.Int32)
+  nameWithType: Matrix.Transpose<T>(T[], Int32, Int32)
+  nameWithType.vb: Matrix.Transpose(Of T)(T(), Int32, Int32)
+- uid: SpeedyCoding.Matrix.Transpose``1(``0[][])
+  name: Transpose<T>(T[][])
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_Transpose__1___0_____
+  commentId: M:SpeedyCoding.Matrix.Transpose``1(``0[][])
+  name.vb: Transpose(Of T)(T()())
+  fullName: SpeedyCoding.Matrix.Transpose<T>(T[][])
+  fullName.vb: SpeedyCoding.Matrix.Transpose(Of T)(T()())
+  nameWithType: Matrix.Transpose<T>(T[][])
+  nameWithType.vb: Matrix.Transpose(Of T)(T()())
+- uid: SpeedyCoding.Matrix.ZipFlattenReshape*
+  name: ZipFlattenReshape
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ZipFlattenReshape_
+  commentId: Overload:SpeedyCoding.Matrix.ZipFlattenReshape
+  fullName: SpeedyCoding.Matrix.ZipFlattenReshape
+  nameWithType: Matrix.ZipFlattenReshape
+- uid: SpeedyCoding.Matrix.ZipFlattenReshape``1(``0[],System.Int32,System.Int32)
+  name: ZipFlattenReshape<TSrc>(TSrc[], Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ZipFlattenReshape__1___0___System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.ZipFlattenReshape``1(``0[],System.Int32,System.Int32)
+  name.vb: ZipFlattenReshape(Of TSrc)(TSrc(), Int32, Int32)
+  fullName: SpeedyCoding.Matrix.ZipFlattenReshape<TSrc>(TSrc[], System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.ZipFlattenReshape(Of TSrc)(TSrc(), System.Int32, System.Int32)
+  nameWithType: Matrix.ZipFlattenReshape<TSrc>(TSrc[], Int32, Int32)
+  nameWithType.vb: Matrix.ZipFlattenReshape(Of TSrc)(TSrc(), Int32, Int32)
+- uid: SpeedyCoding.Matrix.ZipFlattenReshape``1(``0[],System.Int32,System.Int32,System.Int32)
+  name: ZipFlattenReshape<TSrc>(TSrc[], Int32, Int32, Int32)
+  href: api/SpeedyCoding.Matrix.html#SpeedyCoding_Matrix_ZipFlattenReshape__1___0___System_Int32_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.Matrix.ZipFlattenReshape``1(``0[],System.Int32,System.Int32,System.Int32)
+  name.vb: ZipFlattenReshape(Of TSrc)(TSrc(), Int32, Int32, Int32)
+  fullName: SpeedyCoding.Matrix.ZipFlattenReshape<TSrc>(TSrc[], System.Int32, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.Matrix.ZipFlattenReshape(Of TSrc)(TSrc(), System.Int32, System.Int32, System.Int32)
+  nameWithType: Matrix.ZipFlattenReshape<TSrc>(TSrc[], Int32, Int32, Int32)
+  nameWithType.vb: Matrix.ZipFlattenReshape(Of TSrc)(TSrc(), Int32, Int32, Int32)
+- uid: SpeedyCoding.PatternMatch
+  name: PatternMatch
+  href: api/SpeedyCoding.PatternMatch.html
+  commentId: T:SpeedyCoding.PatternMatch
+  fullName: SpeedyCoding.PatternMatch
+  nameWithType: PatternMatch
+- uid: SpeedyCoding.PatternMatch.Match*
+  name: Match
+  href: api/SpeedyCoding.PatternMatch.html#SpeedyCoding_PatternMatch_Match_
+  commentId: Overload:SpeedyCoding.PatternMatch.Match
+  fullName: SpeedyCoding.PatternMatch.Match
+  nameWithType: PatternMatch.Match
+- uid: SpeedyCoding.PatternMatch.Match``1(``0)
+  name: Match<TIn>(TIn)
+  href: api/SpeedyCoding.PatternMatch.html#SpeedyCoding_PatternMatch_Match__1___0_
+  commentId: M:SpeedyCoding.PatternMatch.Match``1(``0)
+  name.vb: Match(Of TIn)(TIn)
+  fullName: SpeedyCoding.PatternMatch.Match<TIn>(TIn)
+  fullName.vb: SpeedyCoding.PatternMatch.Match(Of TIn)(TIn)
+  nameWithType: PatternMatch.Match<TIn>(TIn)
+  nameWithType.vb: PatternMatch.Match(Of TIn)(TIn)
+- uid: SpeedyCoding.PatternMatchContext`1
+  name: PatternMatchContext<TIn>
+  href: api/SpeedyCoding.PatternMatchContext-1.html
+  commentId: T:SpeedyCoding.PatternMatchContext`1
+  name.vb: PatternMatchContext(Of TIn)
+  fullName: SpeedyCoding.PatternMatchContext<TIn>
+  fullName.vb: SpeedyCoding.PatternMatchContext(Of TIn)
+  nameWithType: PatternMatchContext<TIn>
+  nameWithType.vb: PatternMatchContext(Of TIn)
+- uid: SpeedyCoding.PatternMatchContext`1.With*
+  name: With
+  href: api/SpeedyCoding.PatternMatchContext-1.html#SpeedyCoding_PatternMatchContext_1_With_
+  commentId: Overload:SpeedyCoding.PatternMatchContext`1.With
+  fullName: SpeedyCoding.PatternMatchContext<TIn>.With
+  fullName.vb: SpeedyCoding.PatternMatchContext(Of TIn).With
+  nameWithType: PatternMatchContext<TIn>.With
+  nameWithType.vb: PatternMatchContext(Of TIn).With
+- uid: SpeedyCoding.PatternMatchContext`1.With``1(System.Predicate{`0},``0)
+  name: With<TOut>(Predicate<TIn>, TOut)
+  href: api/SpeedyCoding.PatternMatchContext-1.html#SpeedyCoding_PatternMatchContext_1_With__1_System_Predicate__0____0_
+  commentId: M:SpeedyCoding.PatternMatchContext`1.With``1(System.Predicate{`0},``0)
+  name.vb: With(Of TOut)(Predicate(Of TIn), TOut)
+  fullName: SpeedyCoding.PatternMatchContext<TIn>.With<TOut>(System.Predicate<TIn>, TOut)
+  fullName.vb: SpeedyCoding.PatternMatchContext(Of TIn).With(Of TOut)(System.Predicate(Of TIn), TOut)
+  nameWithType: PatternMatchContext<TIn>.With<TOut>(Predicate<TIn>, TOut)
+  nameWithType.vb: PatternMatchContext(Of TIn).With(Of TOut)(Predicate(Of TIn), TOut)
+- uid: SpeedyCoding.PatternMatchOnValue`2
+  name: PatternMatchOnValue<TIn, TOut>
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html
+  commentId: T:SpeedyCoding.PatternMatchOnValue`2
+  name.vb: PatternMatchOnValue(Of TIn, TOut)
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut)
+  nameWithType: PatternMatchOnValue<TIn, TOut>
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut)
+- uid: SpeedyCoding.PatternMatchOnValue`2.Do
+  name: Do()
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_Do
+  commentId: M:SpeedyCoding.PatternMatchOnValue`2.Do
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.Do()
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).Do()
+  nameWithType: PatternMatchOnValue<TIn, TOut>.Do()
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).Do()
+- uid: SpeedyCoding.PatternMatchOnValue`2.Do*
+  name: Do
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_Do_
+  commentId: Overload:SpeedyCoding.PatternMatchOnValue`2.Do
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.Do
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).Do
+  nameWithType: PatternMatchOnValue<TIn, TOut>.Do
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).Do
+- uid: SpeedyCoding.PatternMatchOnValue`2.Else(`1)
+  name: Else(TOut)
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_Else__1_
+  commentId: M:SpeedyCoding.PatternMatchOnValue`2.Else(`1)
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.Else(TOut)
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).Else(TOut)
+  nameWithType: PatternMatchOnValue<TIn, TOut>.Else(TOut)
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).Else(TOut)
+- uid: SpeedyCoding.PatternMatchOnValue`2.Else(System.Func{`0,`1})
+  name: Else(Func<TIn, TOut>)
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_Else_System_Func__0__1__
+  commentId: M:SpeedyCoding.PatternMatchOnValue`2.Else(System.Func{`0,`1})
+  name.vb: Else(Func(Of TIn, TOut))
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.Else(System.Func<TIn, TOut>)
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).Else(System.Func(Of TIn, TOut))
+  nameWithType: PatternMatchOnValue<TIn, TOut>.Else(Func<TIn, TOut>)
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).Else(Func(Of TIn, TOut))
+- uid: SpeedyCoding.PatternMatchOnValue`2.Else*
+  name: Else
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_Else_
+  commentId: Overload:SpeedyCoding.PatternMatchOnValue`2.Else
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.Else
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).Else
+  nameWithType: PatternMatchOnValue<TIn, TOut>.Else
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).Else
+- uid: SpeedyCoding.PatternMatchOnValue`2.With(System.Predicate{`0},`1)
+  name: With(Predicate<TIn>, TOut)
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_With_System_Predicate__0___1_
+  commentId: M:SpeedyCoding.PatternMatchOnValue`2.With(System.Predicate{`0},`1)
+  name.vb: With(Predicate(Of TIn), TOut)
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.With(System.Predicate<TIn>, TOut)
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).With(System.Predicate(Of TIn), TOut)
+  nameWithType: PatternMatchOnValue<TIn, TOut>.With(Predicate<TIn>, TOut)
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).With(Predicate(Of TIn), TOut)
+- uid: SpeedyCoding.PatternMatchOnValue`2.With(System.Predicate{`0},System.Func{`0,`1})
+  name: With(Predicate<TIn>, Func<TIn, TOut>)
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_With_System_Predicate__0__System_Func__0__1__
+  commentId: M:SpeedyCoding.PatternMatchOnValue`2.With(System.Predicate{`0},System.Func{`0,`1})
+  name.vb: With(Predicate(Of TIn), Func(Of TIn, TOut))
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.With(System.Predicate<TIn>, System.Func<TIn, TOut>)
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).With(System.Predicate(Of TIn), System.Func(Of TIn, TOut))
+  nameWithType: PatternMatchOnValue<TIn, TOut>.With(Predicate<TIn>, Func<TIn, TOut>)
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).With(Predicate(Of TIn), Func(Of TIn, TOut))
+- uid: SpeedyCoding.PatternMatchOnValue`2.With*
+  name: With
+  href: api/SpeedyCoding.PatternMatchOnValue-2.html#SpeedyCoding_PatternMatchOnValue_2_With_
+  commentId: Overload:SpeedyCoding.PatternMatchOnValue`2.With
+  fullName: SpeedyCoding.PatternMatchOnValue<TIn, TOut>.With
+  fullName.vb: SpeedyCoding.PatternMatchOnValue(Of TIn, TOut).With
+  nameWithType: PatternMatchOnValue<TIn, TOut>.With
+  nameWithType.vb: PatternMatchOnValue(Of TIn, TOut).With
+- uid: SpeedyCoding.Statistic
+  name: Statistic
+  href: api/SpeedyCoding.Statistic.html
+  commentId: T:SpeedyCoding.Statistic
+  fullName: SpeedyCoding.Statistic
+  nameWithType: Statistic
+- uid: SpeedyCoding.Statistic.Cov(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name: Cov(IEnumerable<Double>, IEnumerable<Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_Cov_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:SpeedyCoding.Statistic.Cov(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: Cov(IEnumerable(Of Double), IEnumerable(Of Double))
+  fullName: SpeedyCoding.Statistic.Cov(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.Cov(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: Statistic.Cov(IEnumerable<Double>, IEnumerable<Double>)
+  nameWithType.vb: Statistic.Cov(IEnumerable(Of Double), IEnumerable(Of Double))
+- uid: SpeedyCoding.Statistic.Cov*
+  name: Cov
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_Cov_
+  commentId: Overload:SpeedyCoding.Statistic.Cov
+  fullName: SpeedyCoding.Statistic.Cov
+  nameWithType: Statistic.Cov
+- uid: SpeedyCoding.Statistic.L1(System.Tuple{System.Double,System.Double},System.Tuple{System.Double,System.Double})
+  name: L1(Tuple<Double, Double>, Tuple<Double, Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L1_System_Tuple_System_Double_System_Double__System_Tuple_System_Double_System_Double__
+  commentId: M:SpeedyCoding.Statistic.L1(System.Tuple{System.Double,System.Double},System.Tuple{System.Double,System.Double})
+  name.vb: L1(Tuple(Of Double, Double), Tuple(Of Double, Double))
+  fullName: SpeedyCoding.Statistic.L1(System.Tuple<System.Double, System.Double>, System.Tuple<System.Double, System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.L1(System.Tuple(Of System.Double, System.Double), System.Tuple(Of System.Double, System.Double))
+  nameWithType: Statistic.L1(Tuple<Double, Double>, Tuple<Double, Double>)
+  nameWithType.vb: Statistic.L1(Tuple(Of Double, Double), Tuple(Of Double, Double))
+- uid: SpeedyCoding.Statistic.L1(System.Tuple{System.Int32,System.Int32},System.Tuple{System.Int32,System.Int32})
+  name: L1(Tuple<Int32, Int32>, Tuple<Int32, Int32>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L1_System_Tuple_System_Int32_System_Int32__System_Tuple_System_Int32_System_Int32__
+  commentId: M:SpeedyCoding.Statistic.L1(System.Tuple{System.Int32,System.Int32},System.Tuple{System.Int32,System.Int32})
+  name.vb: L1(Tuple(Of Int32, Int32), Tuple(Of Int32, Int32))
+  fullName: SpeedyCoding.Statistic.L1(System.Tuple<System.Int32, System.Int32>, System.Tuple<System.Int32, System.Int32>)
+  fullName.vb: SpeedyCoding.Statistic.L1(System.Tuple(Of System.Int32, System.Int32), System.Tuple(Of System.Int32, System.Int32))
+  nameWithType: Statistic.L1(Tuple<Int32, Int32>, Tuple<Int32, Int32>)
+  nameWithType.vb: Statistic.L1(Tuple(Of Int32, Int32), Tuple(Of Int32, Int32))
+- uid: SpeedyCoding.Statistic.L1*
+  name: L1
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L1_
+  commentId: Overload:SpeedyCoding.Statistic.L1
+  fullName: SpeedyCoding.Statistic.L1
+  nameWithType: Statistic.L1
+- uid: SpeedyCoding.Statistic.L2(System.Tuple{System.Double,System.Double},System.Tuple{System.Double,System.Double})
+  name: L2(Tuple<Double, Double>, Tuple<Double, Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L2_System_Tuple_System_Double_System_Double__System_Tuple_System_Double_System_Double__
+  commentId: M:SpeedyCoding.Statistic.L2(System.Tuple{System.Double,System.Double},System.Tuple{System.Double,System.Double})
+  name.vb: L2(Tuple(Of Double, Double), Tuple(Of Double, Double))
+  fullName: SpeedyCoding.Statistic.L2(System.Tuple<System.Double, System.Double>, System.Tuple<System.Double, System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.L2(System.Tuple(Of System.Double, System.Double), System.Tuple(Of System.Double, System.Double))
+  nameWithType: Statistic.L2(Tuple<Double, Double>, Tuple<Double, Double>)
+  nameWithType.vb: Statistic.L2(Tuple(Of Double, Double), Tuple(Of Double, Double))
+- uid: SpeedyCoding.Statistic.L2(System.Tuple{System.Int32,System.Int32},System.Tuple{System.Int32,System.Int32})
+  name: L2(Tuple<Int32, Int32>, Tuple<Int32, Int32>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L2_System_Tuple_System_Int32_System_Int32__System_Tuple_System_Int32_System_Int32__
+  commentId: M:SpeedyCoding.Statistic.L2(System.Tuple{System.Int32,System.Int32},System.Tuple{System.Int32,System.Int32})
+  name.vb: L2(Tuple(Of Int32, Int32), Tuple(Of Int32, Int32))
+  fullName: SpeedyCoding.Statistic.L2(System.Tuple<System.Int32, System.Int32>, System.Tuple<System.Int32, System.Int32>)
+  fullName.vb: SpeedyCoding.Statistic.L2(System.Tuple(Of System.Int32, System.Int32), System.Tuple(Of System.Int32, System.Int32))
+  nameWithType: Statistic.L2(Tuple<Int32, Int32>, Tuple<Int32, Int32>)
+  nameWithType.vb: Statistic.L2(Tuple(Of Int32, Int32), Tuple(Of Int32, Int32))
+- uid: SpeedyCoding.Statistic.L2*
+  name: L2
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_L2_
+  commentId: Overload:SpeedyCoding.Statistic.L2
+  fullName: SpeedyCoding.Statistic.L2
+  nameWithType: Statistic.L2
+- uid: SpeedyCoding.Statistic.PearsonCorrelation(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name: PearsonCorrelation(IEnumerable<Double>, IEnumerable<Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_PearsonCorrelation_System_Collections_Generic_IEnumerable_System_Double__System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:SpeedyCoding.Statistic.PearsonCorrelation(System.Collections.Generic.IEnumerable{System.Double},System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: PearsonCorrelation(IEnumerable(Of Double), IEnumerable(Of Double))
+  fullName: SpeedyCoding.Statistic.PearsonCorrelation(System.Collections.Generic.IEnumerable<System.Double>, System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.PearsonCorrelation(System.Collections.Generic.IEnumerable(Of System.Double), System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: Statistic.PearsonCorrelation(IEnumerable<Double>, IEnumerable<Double>)
+  nameWithType.vb: Statistic.PearsonCorrelation(IEnumerable(Of Double), IEnumerable(Of Double))
+- uid: SpeedyCoding.Statistic.PearsonCorrelation*
+  name: PearsonCorrelation
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_PearsonCorrelation_
+  commentId: Overload:SpeedyCoding.Statistic.PearsonCorrelation
+  fullName: SpeedyCoding.Statistic.PearsonCorrelation
+  nameWithType: Statistic.PearsonCorrelation
+- uid: SpeedyCoding.Statistic.SD(System.Collections.Generic.IEnumerable{System.Double})
+  name: SD(IEnumerable<Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_SD_System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:SpeedyCoding.Statistic.SD(System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: SD(IEnumerable(Of Double))
+  fullName: SpeedyCoding.Statistic.SD(System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.SD(System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: Statistic.SD(IEnumerable<Double>)
+  nameWithType.vb: Statistic.SD(IEnumerable(Of Double))
+- uid: SpeedyCoding.Statistic.SD*
+  name: SD
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_SD_
+  commentId: Overload:SpeedyCoding.Statistic.SD
+  fullName: SpeedyCoding.Statistic.SD
+  nameWithType: Statistic.SD
+- uid: SpeedyCoding.Statistic.ToZScore(System.Collections.Generic.IEnumerable{System.Double})
+  name: ToZScore(IEnumerable<Double>)
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_ToZScore_System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:SpeedyCoding.Statistic.ToZScore(System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: ToZScore(IEnumerable(Of Double))
+  fullName: SpeedyCoding.Statistic.ToZScore(System.Collections.Generic.IEnumerable<System.Double>)
+  fullName.vb: SpeedyCoding.Statistic.ToZScore(System.Collections.Generic.IEnumerable(Of System.Double))
+  nameWithType: Statistic.ToZScore(IEnumerable<Double>)
+  nameWithType.vb: Statistic.ToZScore(IEnumerable(Of Double))
+- uid: SpeedyCoding.Statistic.ToZScore*
+  name: ToZScore
+  href: api/SpeedyCoding.Statistic.html#SpeedyCoding_Statistic_ToZScore_
+  commentId: Overload:SpeedyCoding.Statistic.ToZScore
+  fullName: SpeedyCoding.Statistic.ToZScore
+  nameWithType: Statistic.ToZScore
+- uid: SpeedyCoding.Threading
+  name: Threading
+  href: api/SpeedyCoding.Threading.html
+  commentId: T:SpeedyCoding.Threading
+  fullName: SpeedyCoding.Threading
+  nameWithType: Threading
+- uid: SpeedyCoding.Threading.Delay*
+  name: Delay
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay_
+  commentId: Overload:SpeedyCoding.Threading.Delay
+  fullName: SpeedyCoding.Threading.Delay
+  nameWithType: Threading.Delay
+- uid: SpeedyCoding.Threading.Delay``1(``0,System.Int32)
+  name: Delay<T>(T, Int32)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay__1___0_System_Int32_
+  commentId: M:SpeedyCoding.Threading.Delay``1(``0,System.Int32)
+  name.vb: Delay(Of T)(T, Int32)
+  fullName: SpeedyCoding.Threading.Delay<T>(T, System.Int32)
+  fullName.vb: SpeedyCoding.Threading.Delay(Of T)(T, System.Int32)
+  nameWithType: Threading.Delay<T>(T, Int32)
+  nameWithType.vb: Threading.Delay(Of T)(T, Int32)
+- uid: SpeedyCoding.Threading.Delay100*
+  name: Delay100
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay100_
+  commentId: Overload:SpeedyCoding.Threading.Delay100
+  fullName: SpeedyCoding.Threading.Delay100
+  nameWithType: Threading.Delay100
+- uid: SpeedyCoding.Threading.Delay100``1(``0)
+  name: Delay100<T>(T)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay100__1___0_
+  commentId: M:SpeedyCoding.Threading.Delay100``1(``0)
+  name.vb: Delay100(Of T)(T)
+  fullName: SpeedyCoding.Threading.Delay100<T>(T)
+  fullName.vb: SpeedyCoding.Threading.Delay100(Of T)(T)
+  nameWithType: Threading.Delay100<T>(T)
+  nameWithType.vb: Threading.Delay100(Of T)(T)
+- uid: SpeedyCoding.Threading.Delay1000*
+  name: Delay1000
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay1000_
+  commentId: Overload:SpeedyCoding.Threading.Delay1000
+  fullName: SpeedyCoding.Threading.Delay1000
+  nameWithType: Threading.Delay1000
+- uid: SpeedyCoding.Threading.Delay1000``1(``0)
+  name: Delay1000<T>(T)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay1000__1___0_
+  commentId: M:SpeedyCoding.Threading.Delay1000``1(``0)
+  name.vb: Delay1000(Of T)(T)
+  fullName: SpeedyCoding.Threading.Delay1000<T>(T)
+  fullName.vb: SpeedyCoding.Threading.Delay1000(Of T)(T)
+  nameWithType: Threading.Delay1000<T>(T)
+  nameWithType.vb: Threading.Delay1000(Of T)(T)
+- uid: SpeedyCoding.Threading.Delay300*
+  name: Delay300
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay300_
+  commentId: Overload:SpeedyCoding.Threading.Delay300
+  fullName: SpeedyCoding.Threading.Delay300
+  nameWithType: Threading.Delay300
+- uid: SpeedyCoding.Threading.Delay300``1(``0)
+  name: Delay300<T>(T)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay300__1___0_
+  commentId: M:SpeedyCoding.Threading.Delay300``1(``0)
+  name.vb: Delay300(Of T)(T)
+  fullName: SpeedyCoding.Threading.Delay300<T>(T)
+  fullName.vb: SpeedyCoding.Threading.Delay300(Of T)(T)
+  nameWithType: Threading.Delay300<T>(T)
+  nameWithType.vb: Threading.Delay300(Of T)(T)
+- uid: SpeedyCoding.Threading.Delay50*
+  name: Delay50
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay50_
+  commentId: Overload:SpeedyCoding.Threading.Delay50
+  fullName: SpeedyCoding.Threading.Delay50
+  nameWithType: Threading.Delay50
+- uid: SpeedyCoding.Threading.Delay50``1(``0)
+  name: Delay50<T>(T)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay50__1___0_
+  commentId: M:SpeedyCoding.Threading.Delay50``1(``0)
+  name.vb: Delay50(Of T)(T)
+  fullName: SpeedyCoding.Threading.Delay50<T>(T)
+  fullName.vb: SpeedyCoding.Threading.Delay50(Of T)(T)
+  nameWithType: Threading.Delay50<T>(T)
+  nameWithType.vb: Threading.Delay50(Of T)(T)
+- uid: SpeedyCoding.Threading.Delay500*
+  name: Delay500
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay500_
+  commentId: Overload:SpeedyCoding.Threading.Delay500
+  fullName: SpeedyCoding.Threading.Delay500
+  nameWithType: Threading.Delay500
+- uid: SpeedyCoding.Threading.Delay500``1(``0)
+  name: Delay500<T>(T)
+  href: api/SpeedyCoding.Threading.html#SpeedyCoding_Threading_Delay500__1___0_
+  commentId: M:SpeedyCoding.Threading.Delay500``1(``0)
+  name.vb: Delay500(Of T)(T)
+  fullName: SpeedyCoding.Threading.Delay500<T>(T)
+  fullName.vb: SpeedyCoding.Threading.Delay500(Of T)(T)
+  nameWithType: Threading.Delay500<T>(T)
+  nameWithType.vb: Threading.Delay500(Of T)(T)
+- uid: SpeedyCoding.WPF
+  name: WPF
+  href: api/SpeedyCoding.WPF.html
+  commentId: T:SpeedyCoding.WPF
+  fullName: SpeedyCoding.WPF
+  nameWithType: WPF
+- uid: SpeedyCoding.WPF.SetCanvasPos*
+  name: SetCanvasPos
+  href: api/SpeedyCoding.WPF.html#SpeedyCoding_WPF_SetCanvasPos_
+  commentId: Overload:SpeedyCoding.WPF.SetCanvasPos
+  fullName: SpeedyCoding.WPF.SetCanvasPos
+  nameWithType: WPF.SetCanvasPos
+- uid: SpeedyCoding.WPF.SetCanvasPos``1(``0,System.Int32,System.Int32)
+  name: SetCanvasPos<T>(T, Int32, Int32)
+  href: api/SpeedyCoding.WPF.html#SpeedyCoding_WPF_SetCanvasPos__1___0_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.WPF.SetCanvasPos``1(``0,System.Int32,System.Int32)
+  name.vb: SetCanvasPos(Of T)(T, Int32, Int32)
+  fullName: SpeedyCoding.WPF.SetCanvasPos<T>(T, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.WPF.SetCanvasPos(Of T)(T, System.Int32, System.Int32)
+  nameWithType: WPF.SetCanvasPos<T>(T, Int32, Int32)
+  nameWithType.vb: WPF.SetCanvasPos(Of T)(T, Int32, Int32)
+- uid: SpeedyCoding.WPF.SetGridPos*
+  name: SetGridPos
+  href: api/SpeedyCoding.WPF.html#SpeedyCoding_WPF_SetGridPos_
+  commentId: Overload:SpeedyCoding.WPF.SetGridPos
+  fullName: SpeedyCoding.WPF.SetGridPos
+  nameWithType: WPF.SetGridPos
+- uid: SpeedyCoding.WPF.SetGridPos``1(``0,System.Int32,System.Int32)
+  name: SetGridPos<T>(T, Int32, Int32)
+  href: api/SpeedyCoding.WPF.html#SpeedyCoding_WPF_SetGridPos__1___0_System_Int32_System_Int32_
+  commentId: M:SpeedyCoding.WPF.SetGridPos``1(``0,System.Int32,System.Int32)
+  name.vb: SetGridPos(Of T)(T, Int32, Int32)
+  fullName: SpeedyCoding.WPF.SetGridPos<T>(T, System.Int32, System.Int32)
+  fullName.vb: SpeedyCoding.WPF.SetGridPos(Of T)(T, System.Int32, System.Int32)
+  nameWithType: WPF.SetGridPos<T>(T, Int32, Int32)
+  nameWithType.vb: WPF.SetGridPos(Of T)(T, Int32, Int32)

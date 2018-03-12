@@ -1,0 +1,309 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/00Git_Nc/doc/SpeedyCoding",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "uXPMrRx1K9NJnUDqlXoCYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "hPLrKNSZ1sNThggYRkRhQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "hp6PzDAD5nLNgPT/4vst6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.CollectionAndData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.CollectionAndData.html",
+          "hash": "Ky8sANL6H0dChq82SBanxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Conversion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Conversion.html",
+          "hash": "3wUcdvw5slTohweZYf50uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Debug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Debug.html",
+          "hash": "BUgbJ0mYwrfLTsH5RS7DQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Drawing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Drawing.html",
+          "hash": "zE42G0mUt5Bl1ZjeoeVpwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.HigherOderFunction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.HigherOderFunction.html",
+          "hash": "Rl5e6DYoDBWZuKn8KAtu+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.IO.html",
+          "hash": "5GYWLTkp31OkqqD1jL36mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.IncompletePatternMatchException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.IncompletePatternMatchException.html",
+          "hash": "ebY8BBkW/nWyTgKEH9UOkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Mathematics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Mathematics.html",
+          "hash": "H+XgPE+HSySVCS98Fsk/eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Matrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Matrix.html",
+          "hash": "atKw9DskOlSGePlE2+PCZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.PatternMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.PatternMatch.html",
+          "hash": "knn0grn6rCE0O4kUI4HMXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.PatternMatchContext-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.PatternMatchContext-1.html",
+          "hash": "lNs478ilSZYL7JfSUkPj0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.PatternMatchOnValue-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.PatternMatchOnValue-2.html",
+          "hash": "CBpXo8KhQ2mKFvZcIdS9+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Statistic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Statistic.html",
+          "hash": "dBw37LQp8NTzuohdCWK2tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.Threading.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.Threading.html",
+          "hash": "s8o9YNN6g8iCrBmNIi664g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.WPF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.WPF.html",
+          "hash": "MxnCiV7jmM29jayQs2iJBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/SpeedyCoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SpeedyCoding.html",
+          "hash": "9omNfKgSxs0w+9cPVlIvEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Q4ZEjRggmqT3UAFcaxY3zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "frPdeW5hGroGiyexwMQIhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
